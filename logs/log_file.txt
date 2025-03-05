@@ -1,0 +1,1835 @@
+(01/13/2025)18:58:05::  Log File created
+(01/13/2025)18:58:05:: Program Started
+(01/13/2025)18:58:45:: Cache Added to Database.(Cache Len: 52, DB Len:0)
+(01/13/2025)18:59:01:: Cache Added to Database.(Cache Len: 50, DB Len:51)
+(01/13/2025)18:59:17:: Cache Added to Database.(Cache Len: 51, DB Len:100)
+(01/13/2025)18:59:33:: Cache Added to Database.(Cache Len: 54, DB Len:149)
+(01/13/2025)18:59:49:: Cache Added to Database.(Cache Len: 50, DB Len:202)
+(01/13/2025)19:00:51:: Program Started
+(01/13/2025)19:01:31:: Cache Added to Database.(Cache Len: 102, DB Len:252)
+(01/13/2025)19:02:03:: Cache Added to Database.(Cache Len: 103, DB Len:351)
+(01/13/2025)19:02:32:: Cache Added to Database.(Cache Len: 102, DB Len:450)
+(01/13/2025)19:03:08:: Cache Added to Database.(Cache Len: 106, DB Len:552)
+(01/13/2025)19:03:48:: Cache Added to Database.(Cache Len: 103, DB Len:652)
+(01/13/2025)19:04:24:: Cache Added to Database.(Cache Len: 102, DB Len:751)
+(01/13/2025)19:04:58:: Cache Added to Database.(Cache Len: 105, DB Len:853)
+(01/13/2025)19:05:30:: Cache Added to Database.(Cache Len: 102, DB Len:957)
+(01/13/2025)19:06:42:: Cache Added to Database.(Cache Len: 100, DB Len:1052)
+(01/13/2025)19:07:12:: Cache Added to Database.(Cache Len: 100, DB Len:1150)
+(01/13/2025)19:07:41:: Cache Added to Database.(Cache Len: 104, DB Len:1246)
+(01/13/2025)19:08:33:: Cache Added to Database.(Cache Len: 102, DB Len:1349)
+(01/13/2025)19:15:37:: Cache Added to Database.(Cache Len: 105, DB Len:1442)
+(01/13/2025)19:16:07:: Cache Added to Database.(Cache Len: 102, DB Len:1547)
+(01/13/2025)19:16:41:: Cache Added to Database.(Cache Len: 106, DB Len:1644)
+(01/13/2025)19:17:16:: Cache Added to Database.(Cache Len: 102, DB Len:1747)
+(01/13/2025)19:17:48:: Cache Added to Database.(Cache Len: 106, DB Len:1849)
+(01/13/2025)19:18:18:: Cache Added to Database.(Cache Len: 103, DB Len:1955)
+(01/13/2025)19:18:44:: Cache Added to Database.(Cache Len: 103, DB Len:2058)
+(01/13/2025)19:19:19:: Cache Added to Database.(Cache Len: 106, DB Len:2161)
+(01/13/2025)19:19:47:: Cache Added to Database.(Cache Len: 100, DB Len:2268)
+(01/13/2025)19:20:19:: Cache Added to Database.(Cache Len: 104, DB Len:2367)
+(01/13/2025)19:21:07:: Cache Added to Database.(Cache Len: 101, DB Len:2470)
+(01/13/2025)19:21:36:: Cache Added to Database.(Cache Len: 105, DB Len:2567)
+(01/13/2025)19:22:04:: Cache Added to Database.(Cache Len: 102, DB Len:2671)
+(01/13/2025)19:22:34:: Cache Added to Database.(Cache Len: 107, DB Len:2769)
+(01/13/2025)19:23:07:: Cache Added to Database.(Cache Len: 103, DB Len:2875)
+(01/13/2025)19:23:41:: Cache Added to Database.(Cache Len: 104, DB Len:2972)
+(01/13/2025)19:41:00:: Cache Added to Database.(Cache Len: 106, DB Len:3076)
+(01/13/2025)19:41:30:: Cache Added to Database.(Cache Len: 101, DB Len:3177)
+(01/13/2025)19:42:02:: Cache Added to Database.(Cache Len: 103, DB Len:3275)
+(01/13/2025)19:42:37:: Cache Added to Database.(Cache Len: 101, DB Len:3375)
+(01/13/2025)19:43:07:: Cache Added to Database.(Cache Len: 102, DB Len:3471)
+(01/13/2025)19:43:39:: Cache Added to Database.(Cache Len: 102, DB Len:3570)
+(01/13/2025)19:44:08:: Cache Added to Database.(Cache Len: 104, DB Len:3672)
+(01/13/2025)19:44:38:: Cache Added to Database.(Cache Len: 103, DB Len:3775)
+(01/13/2025)19:45:09:: Cache Added to Database.(Cache Len: 101, DB Len:3879)
+(01/13/2025)19:45:47:: Cache Added to Database.(Cache Len: 100, DB Len:3979)
+(01/13/2025)19:47:01:: Cache Added to Database.(Cache Len: 105, DB Len:4079)
+(01/13/2025)19:47:34:: Cache Added to Database.(Cache Len: 102, DB Len:4176)
+(01/13/2025)19:48:08:: Cache Added to Database.(Cache Len: 101, DB Len:4274)
+(01/13/2025)19:48:47:: Cache Added to Database.(Cache Len: 102, DB Len:4371)
+(01/13/2025)19:49:21:: Cache Added to Database.(Cache Len: 103, DB Len:4468)
+(01/13/2025)19:50:02:: Cache Added to Database.(Cache Len: 103, DB Len:4564)
+(01/13/2025)19:50:38:: Cache Added to Database.(Cache Len: 109, DB Len:4659)
+(01/13/2025)19:51:07:: Cache Added to Database.(Cache Len: 107, DB Len:4768)
+(01/13/2025)19:51:43:: Cache Added to Database.(Cache Len: 104, DB Len:4873)
+(01/13/2025)19:52:16:: Cache Added to Database.(Cache Len: 108, DB Len:4974)
+(01/13/2025)20:01:45:: Program Started
+(01/13/2025)20:02:20:: Cache Added to Database.(Cache Len: 100, DB Len:4898)
+(01/13/2025)20:03:08:: Cache Added to Database.(Cache Len: 105, DB Len:4998)
+(01/13/2025)20:03:08:: Training Models
+(01/13/2025)20:03:09:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -0.7225585097448759, 'Cross-validation Std': 0.012412130908412025}
+(01/13/2025)20:03:09:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -0.7186948573258964, 'Cross-validation Std': 0.006500665472216497}
+(01/13/2025)20:03:10:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44512783229583847, 'Cross-validation Std': 0.003098667410339336}
+(01/13/2025)20:03:11:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4536996214068411, 'Cross-validation Std': 0.0031881857224394126}
+(01/13/2025)20:03:45:: Cache Added to Database.(Cache Len: 105, DB Len:5100)
+(01/13/2025)20:04:20:: Cache Added to Database.(Cache Len: 101, DB Len:5203)
+(01/13/2025)20:04:56:: Cache Added to Database.(Cache Len: 103, DB Len:5299)
+(01/13/2025)20:05:27:: Cache Added to Database.(Cache Len: 107, DB Len:5397)
+(01/13/2025)20:06:53:: No Anomaly Detected: -1.3189161608711553 difference in scores
+(01/13/2025)20:06:53:: Cache Added to Database.(Cache Len: 104, DB Len:5503)
+(01/13/2025)20:06:53:: Training Models
+(01/13/2025)20:06:54:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -0.810126309100119, 'Cross-validation Std': 0.03440783598515784}
+(01/13/2025)20:06:54:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -0.7832775963633034, 'Cross-validation Std': 0.016122376452432603}
+(01/13/2025)20:06:54:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44279080267259846, 'Cross-validation Std': 0.0027334155380499335}
+(01/13/2025)20:06:55:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45587215128037845, 'Cross-validation Std': 0.004480906217589683}
+(01/13/2025)20:07:25:: No Anomaly Detected: -1.1987472153170642 difference in scores
+(01/13/2025)20:07:26:: Cache Added to Database.(Cache Len: 102, DB Len:5602)
+(01/13/2025)20:07:54:: No Anomaly Detected: -1.1759630494486326 difference in scores
+(01/13/2025)20:07:55:: Cache Added to Database.(Cache Len: 103, DB Len:5699)
+(01/13/2025)20:08:27:: No Anomaly Detected: -1.153920792505276 difference in scores
+(01/13/2025)20:08:27:: Cache Added to Database.(Cache Len: 110, DB Len:5801)
+(01/13/2025)20:08:55:: No Anomaly Detected: -1.1335569867913695 difference in scores
+(01/13/2025)20:08:56:: Cache Added to Database.(Cache Len: 100, DB Len:5910)
+(01/13/2025)20:09:30:: No Anomaly Detected: -1.120471621299489 difference in scores
+(01/13/2025)20:09:30:: Cache Added to Database.(Cache Len: 100, DB Len:6006)
+(01/13/2025)20:09:30:: Training Models
+(01/13/2025)20:09:31:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -0.8748224352590965, 'Cross-validation Std': 0.02896260443180923}
+(01/13/2025)20:09:31:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -0.889544088886766, 'Cross-validation Std': 0.033512794691872606}
+(01/13/2025)20:09:32:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4444476134382949, 'Cross-validation Std': 0.0025123288461078035}
+(01/13/2025)20:09:33:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45708746174142084, 'Cross-validation Std': 0.0028516809610047962}
+(01/13/2025)20:10:03:: No Anomaly Detected: -1.1231077249596568 difference in scores
+(01/13/2025)20:10:03:: Cache Added to Database.(Cache Len: 100, DB Len:6106)
+(01/13/2025)20:10:37:: No Anomaly Detected: -1.1476406471177287 difference in scores
+(01/13/2025)20:10:38:: Cache Added to Database.(Cache Len: 103, DB Len:6206)
+(01/14/2025)12:34:02:: Program Started
+(01/14/2025)12:34:41:: Cache Added to Database.(Cache Len: 100, DB Len:6309)
+(01/14/2025)12:35:41:: Program Started
+(01/14/2025)12:36:19:: Cache Added to Database.(Cache Len: 100, DB Len:6405)
+(01/14/2025)12:36:19:: Training Models
+(01/14/2025)12:36:20:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -0.9252544405784988, 'Cross-validation Std': 0.026965833328420646}
+(01/14/2025)12:36:20:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -0.9563579106468557, 'Cross-validation Std': 0.03921752951277281}
+(01/14/2025)12:36:21:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4467028219346873, 'Cross-validation Std': 0.000673319289696776}
+(01/14/2025)12:36:22:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.455785991233802, 'Cross-validation Std': 0.004794540739163506}
+(01/14/2025)12:37:18:: Cache Added to Database.(Cache Len: 101, DB Len:6505)
+(01/14/2025)12:37:53:: Cache Added to Database.(Cache Len: 102, DB Len:6602)
+(01/14/2025)12:38:26:: Cache Added to Database.(Cache Len: 103, DB Len:6700)
+(01/14/2025)12:39:00:: Cache Added to Database.(Cache Len: 105, DB Len:6800)
+(01/14/2025)12:39:35:: Cache Added to Database.(Cache Len: 107, DB Len:6897)
+(01/14/2025)12:40:10:: Cache Added to Database.(Cache Len: 100, DB Len:6997)
+(01/14/2025)12:40:10:: Training Models
+(01/14/2025)12:40:10:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.0076918726701505, 'Cross-validation Std': 0.01610035248119405}
+(01/14/2025)12:40:10:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.0351416719154671, 'Cross-validation Std': 0.03184577677454027}
+(01/14/2025)12:40:11:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4463044162803236, 'Cross-validation Std': 0.0025118088408505935}
+(01/14/2025)12:40:12:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45664258001961266, 'Cross-validation Std': 0.004739065916183025}
+(01/14/2025)12:40:41:: Cache Added to Database.(Cache Len: 105, DB Len:7097)
+(01/14/2025)12:41:15:: Cache Added to Database.(Cache Len: 105, DB Len:7197)
+(01/14/2025)12:41:46:: Cache Added to Database.(Cache Len: 103, DB Len:7297)
+(01/14/2025)12:42:21:: Cache Added to Database.(Cache Len: 107, DB Len:7400)
+(01/14/2025)12:42:55:: Cache Added to Database.(Cache Len: 104, DB Len:7505)
+(01/14/2025)12:42:55:: Training Models
+(01/14/2025)12:42:56:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.0824054325750705, 'Cross-validation Std': 0.019136119618699883}
+(01/14/2025)12:42:56:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.0861095535169893, 'Cross-validation Std': 0.013198939993392162}
+(01/14/2025)12:42:57:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4457089378271048, 'Cross-validation Std': 0.0053167808866984865}
+(01/14/2025)12:42:58:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4561258158901135, 'Cross-validation Std': 0.0028474725301345736}
+(01/14/2025)12:43:57:: Cache Added to Database.(Cache Len: 101, DB Len:7605)
+(01/14/2025)12:44:27:: Cache Added to Database.(Cache Len: 101, DB Len:7704)
+(01/14/2025)12:45:04:: Cache Added to Database.(Cache Len: 106, DB Len:7804)
+(01/14/2025)12:45:43:: Cache Added to Database.(Cache Len: 101, DB Len:7907)
+(01/14/2025)12:46:16:: Cache Added to Database.(Cache Len: 102, DB Len:8005)
+(01/14/2025)12:46:48:: Cache Added to Database.(Cache Len: 103, DB Len:8104)
+(01/14/2025)12:47:45:: Cache Added to Database.(Cache Len: 101, DB Len:8204)
+(01/14/2025)12:48:24:: Cache Added to Database.(Cache Len: 103, DB Len:8302)
+(01/14/2025)12:49:01:: Cache Added to Database.(Cache Len: 103, DB Len:8395)
+(01/14/2025)12:49:58:: Cache Added to Database.(Cache Len: 103, DB Len:8490)
+(01/14/2025)12:49:58:: Training Models
+(01/14/2025)12:49:58:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.2338694543600013, 'Cross-validation Std': 0.01685928046629289}
+(01/14/2025)12:49:58:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.2306652438007981, 'Cross-validation Std': 0.04007638681740775}
+(01/14/2025)12:49:59:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44846785186121724, 'Cross-validation Std': 0.003966250208315102}
+(01/14/2025)12:50:00:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45738267774511865, 'Cross-validation Std': 0.0024082789876758407}
+(01/14/2025)12:50:31:: Cache Added to Database.(Cache Len: 104, DB Len:8585)
+(01/14/2025)12:51:36:: Cache Added to Database.(Cache Len: 105, DB Len:8686)
+(01/14/2025)12:52:07:: Cache Added to Database.(Cache Len: 102, DB Len:8791)
+(01/14/2025)12:53:01:: Cache Added to Database.(Cache Len: 105, DB Len:8889)
+(01/14/2025)12:53:36:: Cache Added to Database.(Cache Len: 100, DB Len:8985)
+(01/14/2025)12:54:11:: Cache Added to Database.(Cache Len: 101, DB Len:9082)
+(01/14/2025)12:54:48:: Cache Added to Database.(Cache Len: 101, DB Len:9179)
+(01/14/2025)13:00:56:: Program Started
+(01/14/2025)13:02:43:: Cache Added to Database.(Cache Len: 100, DB Len:9280)
+(01/14/2025)13:04:08:: Cache Added to Database.(Cache Len: 106, DB Len:9372)
+(01/14/2025)13:05:09:: Cache Added to Database.(Cache Len: 102, DB Len:9478)
+(01/14/2025)13:05:09:: Training Models
+(01/14/2025)13:05:10:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.4015174244724853, 'Cross-validation Std': 0.030258494333914646}
+(01/14/2025)13:05:10:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.4250533250848465, 'Cross-validation Std': 0.04607193655963258}
+(01/14/2025)13:05:11:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44931821228975444, 'Cross-validation Std': 0.003884439276282205}
+(01/14/2025)13:05:12:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45624015860940326, 'Cross-validation Std': 0.003734942774983033}
+(01/14/2025)13:05:53:: Cache Added to Database.(Cache Len: 101, DB Len:9580)
+(01/14/2025)13:06:28:: Cache Added to Database.(Cache Len: 101, DB Len:9681)
+(01/14/2025)13:07:04:: Cache Added to Database.(Cache Len: 101, DB Len:9780)
+(01/14/2025)13:08:07:: Cache Added to Database.(Cache Len: 104, DB Len:9878)
+(01/14/2025)13:08:46:: Cache Added to Database.(Cache Len: 103, DB Len:9980)
+(01/14/2025)13:52:47:: Program Started
+(01/14/2025)13:52:49:: Training Models
+(01/14/2025)13:52:50:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.4892917250770716, 'Cross-validation Std': 0.032314572891301276}
+(01/14/2025)13:52:50:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.4680805883984351, 'Cross-validation Std': 0.04671526138823065}
+(01/14/2025)13:52:51:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4463406467056849, 'Cross-validation Std': 0.003392103611842488}
+(01/14/2025)13:52:52:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45638609452394496, 'Cross-validation Std': 0.003209683687225045}
+(01/14/2025)13:53:25:: Cache Added to Database.(Cache Len: 106, DB Len:10079)
+(01/14/2025)13:53:58:: Cache Added to Database.(Cache Len: 100, DB Len:10185)
+(01/14/2025)13:54:31:: Cache Added to Database.(Cache Len: 104, DB Len:10280)
+(01/14/2025)13:55:08:: Cache Added to Database.(Cache Len: 104, DB Len:10382)
+(01/14/2025)13:55:43:: Cache Added to Database.(Cache Len: 102, DB Len:10481)
+(01/14/2025)13:55:43:: Training Models
+(01/14/2025)13:55:43:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.5531216851716159, 'Cross-validation Std': 0.026287784712977297}
+(01/14/2025)13:55:44:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.5209985825005177, 'Cross-validation Std': 0.044753416129107125}
+(01/14/2025)13:55:45:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44506401860477973, 'Cross-validation Std': 0.0029801345303068555}
+(01/14/2025)13:55:46:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45931716391400634, 'Cross-validation Std': 0.0016497161323681619}
+(01/14/2025)13:56:15:: Cache Added to Database.(Cache Len: 102, DB Len:10579)
+(01/14/2025)13:56:52:: Cache Added to Database.(Cache Len: 105, DB Len:10678)
+(01/14/2025)13:57:23:: Cache Added to Database.(Cache Len: 101, DB Len:10778)
+(01/14/2025)13:58:00:: Cache Added to Database.(Cache Len: 105, DB Len:10877)
+(01/14/2025)13:58:31:: Cache Added to Database.(Cache Len: 107, DB Len:10975)
+(01/14/2025)13:58:31:: Training Models
+(01/14/2025)13:58:31:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.639756196327443, 'Cross-validation Std': 0.018968636733526296}
+(01/14/2025)13:58:31:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.6098848739280218, 'Cross-validation Std': 0.0558599978014978}
+(01/14/2025)13:58:32:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4461049126651834, 'Cross-validation Std': 0.001754721876641453}
+(01/14/2025)13:58:33:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4553958509961326, 'Cross-validation Std': 0.0035656956950382095}
+(01/14/2025)13:59:04:: Cache Added to Database.(Cache Len: 104, DB Len:11079)
+(01/14/2025)14:00:04:: Cache Added to Database.(Cache Len: 103, DB Len:11183)
+(01/14/2025)14:00:41:: Cache Added to Database.(Cache Len: 104, DB Len:11282)
+(01/14/2025)18:34:38:: Program Started
+(01/14/2025)18:35:13:: Cache Added to Database.(Cache Len: 105, DB Len:11384)
+(01/14/2025)18:35:50:: Cache Added to Database.(Cache Len: 106, DB Len:11489)
+(01/14/2025)18:35:50:: Training Models
+(01/14/2025)18:35:50:: DB Length: 11492
+(01/14/2025)18:35:50:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.7622453564528662, 'Cross-validation Std': 0.04865282498785506}
+(01/14/2025)18:35:51:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.7150484632401501, 'Cross-validation Std': 0.03267549831983799}
+(01/14/2025)18:35:52:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44559166010685286, 'Cross-validation Std': 0.003473996795175817}
+(01/14/2025)18:35:53:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45711611179044853, 'Cross-validation Std': 0.0016370377296520834}
+(01/14/2025)18:36:22:: Cache Added to Database.(Cache Len: 103, DB Len:11591)
+(01/14/2025)18:36:53:: Cache Added to Database.(Cache Len: 101, DB Len:11694)
+(01/14/2025)18:37:26:: Cache Added to Database.(Cache Len: 104, DB Len:11792)
+(01/14/2025)18:37:57:: Cache Added to Database.(Cache Len: 103, DB Len:11893)
+(01/14/2025)18:38:28:: Cache Added to Database.(Cache Len: 102, DB Len:11994)
+(01/14/2025)18:38:28:: Training Models
+(01/14/2025)18:38:29:: DB Length: 11996
+(01/14/2025)18:38:29:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.7696932857300507, 'Cross-validation Std': 0.027017145065802755}
+(01/14/2025)18:38:29:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.8135180895101346, 'Cross-validation Std': 0.04939583658233731}
+(01/14/2025)18:38:30:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4477429671481833, 'Cross-validation Std': 0.0033102447360521658}
+(01/14/2025)18:38:31:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4556243821360185, 'Cross-validation Std': 0.0007592514123301198}
+(01/14/2025)18:39:06:: Cache Added to Database.(Cache Len: 103, DB Len:12095)
+(01/14/2025)18:39:37:: Cache Added to Database.(Cache Len: 107, DB Len:12194)
+(01/14/2025)18:40:11:: Cache Added to Database.(Cache Len: 100, DB Len:12296)
+(01/14/2025)18:40:36:: Cache Added to Database.(Cache Len: 101, DB Len:12392)
+(01/14/2025)18:41:07:: Cache Added to Database.(Cache Len: 103, DB Len:12493)
+(01/14/2025)18:41:07:: Training Models
+(01/14/2025)18:41:08:: DB Length: 12496
+(01/14/2025)18:41:08:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.9352086560886022, 'Cross-validation Std': 0.04586427775943913}
+(01/14/2025)18:41:08:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.9248309972773239, 'Cross-validation Std': 0.017202065869136973}
+(01/14/2025)18:41:09:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4440272121257817, 'Cross-validation Std': 0.0011098664287829273}
+(01/14/2025)18:41:10:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4555830457414971, 'Cross-validation Std': 0.002506544610742847}
+(01/14/2025)18:41:41:: Cache Added to Database.(Cache Len: 104, DB Len:12595)
+(01/14/2025)18:42:14:: Cache Added to Database.(Cache Len: 103, DB Len:12697)
+(01/14/2025)18:42:52:: Cache Added to Database.(Cache Len: 100, DB Len:12799)
+(01/14/2025)18:46:39:: Cache Added to Database.(Cache Len: 105, DB Len:12899)
+(01/14/2025)18:50:00:: Cache Added to Database.(Cache Len: 100, DB Len:12991)
+(01/14/2025)20:24:37:: Program Started
+(01/14/2025)20:25:53:: Cache Added to Database.(Cache Len: 100, DB Len:0)
+(01/14/2025)20:26:59:: Cache Added to Database.(Cache Len: 100, DB Len:85)
+(01/14/2025)20:27:53:: Cache Added to Database.(Cache Len: 102, DB Len:171)
+(01/14/2025)20:29:20:: Program Started
+(01/14/2025)20:30:08:: Program Started
+(01/14/2025)20:30:36:: Program Started
+(01/15/2025)12:42:57:: Program Started
+(01/15/2025)18:02:56:: Program Started
+(01/15/2025)18:02:58:: Training Models
+(01/15/2025)18:02:58:: DB Length: 12980
+(01/15/2025)18:02:58:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.0494094800093237, 'Cross-validation Std': 0.05175176815817114}
+(01/15/2025)18:02:58:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.9655859746247828, 'Cross-validation Std': 0.050953665197869834}
+(01/15/2025)18:03:00:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44779638969927005, 'Cross-validation Std': 0.0032011024530338053}
+(01/15/2025)18:03:01:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4557562035779764, 'Cross-validation Std': 0.002490883740761999}
+(01/15/2025)18:03:36:: Cache Added to Database.(Cache Len: 107, DB Len:13079)
+(01/15/2025)18:04:07:: Cache Added to Database.(Cache Len: 103, DB Len:13181)
+(01/15/2025)18:04:34:: Cache Added to Database.(Cache Len: 100, DB Len:13284)
+(01/15/2025)18:05:08:: Cache Added to Database.(Cache Len: 100, DB Len:13384)
+(01/15/2025)18:05:43:: Cache Added to Database.(Cache Len: 105, DB Len:13481)
+(01/15/2025)18:05:43:: Training Models
+(01/15/2025)18:05:43:: DB Length: 13487
+(01/15/2025)18:05:44:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.0397307043226265, 'Cross-validation Std': 0.0635207174017171}
+(01/15/2025)18:05:44:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.0570169059622847, 'Cross-validation Std': 0.04245742879998798}
+(01/15/2025)18:05:45:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4472265204210818, 'Cross-validation Std': 0.0013336622073754547}
+(01/15/2025)18:05:46:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4534126317988577, 'Cross-validation Std': 0.002898405403109318}
+(01/15/2025)18:06:13:: Cache Added to Database.(Cache Len: 101, DB Len:13586)
+(01/15/2025)18:06:46:: Cache Added to Database.(Cache Len: 109, DB Len:13685)
+(01/15/2025)18:07:18:: Cache Added to Database.(Cache Len: 103, DB Len:13790)
+(01/15/2025)18:08:21:: Cache Added to Database.(Cache Len: 103, DB Len:13889)
+(01/15/2025)18:10:18:: Cache Added to Database.(Cache Len: 102, DB Len:13988)
+(01/15/2025)18:10:18:: Training Models
+(01/15/2025)18:10:19:: DB Length: 13988
+(01/15/2025)18:10:19:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.1560374358952528, 'Cross-validation Std': 0.06418189400915904}
+(01/15/2025)18:10:19:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.114447410676078, 'Cross-validation Std': 0.05430310297275834}
+(01/15/2025)18:10:20:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44720926538121547, 'Cross-validation Std': 0.0006603331542072487}
+(01/15/2025)18:10:21:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4553192166048096, 'Cross-validation Std': 0.0031848327617117447}
+(01/15/2025)18:10:53:: Cache Added to Database.(Cache Len: 102, DB Len:14087)
+(01/15/2025)18:11:28:: Cache Added to Database.(Cache Len: 102, DB Len:14189)
+(01/15/2025)18:12:01:: Cache Added to Database.(Cache Len: 108, DB Len:14286)
+(01/15/2025)18:12:35:: Cache Added to Database.(Cache Len: 101, DB Len:14388)
+(01/15/2025)18:13:08:: Cache Added to Database.(Cache Len: 103, DB Len:14485)
+(01/15/2025)18:13:08:: Training Models
+(01/15/2025)18:13:09:: DB Length: 14489
+(01/15/2025)18:13:09:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.2584812713786837, 'Cross-validation Std': 0.034927018175237745}
+(01/15/2025)18:13:09:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.1957903857418444, 'Cross-validation Std': 0.04609111809992172}
+(01/15/2025)18:13:10:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4478943807464937, 'Cross-validation Std': 0.003343518378375806}
+(01/15/2025)18:13:11:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4566457185053429, 'Cross-validation Std': 0.002077787832034813}
+(01/15/2025)18:22:49:: Cache Added to Database.(Cache Len: 103, DB Len:14588)
+(01/15/2025)18:23:20:: Cache Added to Database.(Cache Len: 105, DB Len:14685)
+(01/15/2025)18:23:53:: Cache Added to Database.(Cache Len: 104, DB Len:14790)
+(01/15/2025)18:24:27:: Cache Added to Database.(Cache Len: 106, DB Len:14890)
+(01/15/2025)18:25:10:: Cache Added to Database.(Cache Len: 102, DB Len:14993)
+(01/15/2025)18:25:10:: Training Models
+(01/15/2025)18:25:11:: DB Length: 14990
+(01/15/2025)18:25:11:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.3919709012805663, 'Cross-validation Std': 0.03737632182442463}
+(01/15/2025)18:25:11:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.3181738526998177, 'Cross-validation Std': 0.02470537125769791}
+(01/15/2025)18:25:12:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4464039286285876, 'Cross-validation Std': 0.001795837228318646}
+(01/15/2025)18:25:13:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45282259893348364, 'Cross-validation Std': 0.002136609882516675}
+(01/15/2025)18:34:25:: Cache Added to Database.(Cache Len: 107, DB Len:15089)
+(01/15/2025)18:34:56:: Cache Added to Database.(Cache Len: 102, DB Len:15175)
+(01/15/2025)18:35:28:: Cache Added to Database.(Cache Len: 101, DB Len:15277)
+(01/15/2025)18:36:13:: Cache Added to Database.(Cache Len: 105, DB Len:15378)
+(01/15/2025)18:36:47:: Cache Added to Database.(Cache Len: 102, DB Len:15474)
+(01/15/2025)18:37:18:: Cache Added to Database.(Cache Len: 108, DB Len:15571)
+(01/15/2025)18:37:51:: Cache Added to Database.(Cache Len: 104, DB Len:15679)
+(01/15/2025)18:38:21:: Cache Added to Database.(Cache Len: 102, DB Len:15780)
+(01/15/2025)18:41:43:: Cache Added to Database.(Cache Len: 103, DB Len:15882)
+(01/15/2025)18:43:16:: Cache Added to Database.(Cache Len: 103, DB Len:15980)
+(01/15/2025)18:43:16:: Training Models
+(01/15/2025)18:43:17:: DB Length: 15980
+(01/15/2025)18:43:17:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.4680571764975556, 'Cross-validation Std': 0.05486132902676886}
+(01/15/2025)18:43:17:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.3272626093184714, 'Cross-validation Std': 0.02641397946280934}
+(01/15/2025)18:43:18:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44699415823092553, 'Cross-validation Std': 0.001317011919657617}
+(01/15/2025)18:43:19:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45471744701670636, 'Cross-validation Std': 0.0017677932508112111}
+(01/15/2025)18:45:29:: Cache Added to Database.(Cache Len: 101, DB Len:16079)
+(01/15/2025)18:46:02:: Cache Added to Database.(Cache Len: 102, DB Len:16169)
+(01/15/2025)18:46:32:: Cache Added to Database.(Cache Len: 103, DB Len:16266)
+(01/15/2025)18:47:02:: Cache Added to Database.(Cache Len: 101, DB Len:16369)
+(01/15/2025)18:47:33:: Cache Added to Database.(Cache Len: 105, DB Len:16469)
+(01/15/2025)18:48:07:: Cache Added to Database.(Cache Len: 107, DB Len:16573)
+(01/15/2025)18:48:36:: Cache Added to Database.(Cache Len: 106, DB Len:16680)
+(01/15/2025)18:49:08:: Cache Added to Database.(Cache Len: 106, DB Len:16786)
+(01/15/2025)18:49:41:: Cache Added to Database.(Cache Len: 104, DB Len:16891)
+(01/15/2025)18:50:15:: Cache Added to Database.(Cache Len: 104, DB Len:16994)
+(01/15/2025)18:50:15:: Training Models
+(01/15/2025)18:50:16:: DB Length: 16997
+(01/15/2025)18:50:16:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.6143609556720184, 'Cross-validation Std': 0.05118089387169875}
+(01/15/2025)18:50:16:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.4707463548468094, 'Cross-validation Std': 0.022992904447024162}
+(01/15/2025)18:50:17:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44561719767935626, 'Cross-validation Std': 0.002688576613863661}
+(01/15/2025)18:50:18:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45373517575489286, 'Cross-validation Std': 0.0024997649383696825}
+(01/15/2025)18:50:48:: Cache Added to Database.(Cache Len: 100, DB Len:17096)
+(01/15/2025)18:51:19:: Cache Added to Database.(Cache Len: 102, DB Len:17192)
+(01/15/2025)21:11:17:: DB Length: 17190
+(01/15/2025)21:11:17:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.8818163605648113, 'Cross-validation Std': 0.06038942685983111}
+(01/15/2025)21:11:18:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.0389870366581586, 'Cross-validation Std': 0.01939580018130109}
+(01/15/2025)21:11:19:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44691724469929656, 'Cross-validation Std': 0.0038772580170471464}
+(01/15/2025)21:11:21:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45645135466429976, 'Cross-validation Std': 0.0020696217760333055}
+(01/16/2025)20:40:40:: Cache Added to Database.(Cache Len: 101, DB Len:17289)
+(01/16/2025)20:41:16:: Cache Added to Database.(Cache Len: 104, DB Len:17383)
+(01/16/2025)20:41:50:: Cache Added to Database.(Cache Len: 103, DB Len:17483)
+(01/16/2025)20:41:50:: Training Models
+(01/16/2025)20:41:50:: DB Length: 17485
+(01/16/2025)20:41:51:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.896472747853668, 'Cross-validation Std': 0.025878696811069593}
+(01/16/2025)20:41:51:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.0397289572863593, 'Cross-validation Std': 0.03618400158839115}
+(01/16/2025)20:41:52:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44700183283621586, 'Cross-validation Std': 0.0020937022245719156}
+(01/16/2025)20:41:53:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45368393885697617, 'Cross-validation Std': 0.002833023178723501}
+(01/16/2025)20:42:25:: Cache Added to Database.(Cache Len: 105, DB Len:17584)
+(01/16/2025)20:42:56:: Cache Added to Database.(Cache Len: 102, DB Len:17686)
+(01/16/2025)20:43:36:: Cache Added to Database.(Cache Len: 107, DB Len:17784)
+(01/16/2025)20:44:12:: Cache Added to Database.(Cache Len: 107, DB Len:17886)
+(01/16/2025)20:44:48:: Cache Added to Database.(Cache Len: 106, DB Len:17992)
+(01/16/2025)20:44:48:: Training Models
+(01/16/2025)20:44:48:: DB Length: 17999
+(01/16/2025)20:44:49:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.9888218317564514, 'Cross-validation Std': 0.05652648411768042}
+(01/16/2025)20:44:49:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.0731559071660253, 'Cross-validation Std': 0.024952004882542057}
+(01/16/2025)20:44:50:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44394922575662693, 'Cross-validation Std': 0.0038068041134696104}
+(01/16/2025)20:44:51:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45531720973846906, 'Cross-validation Std': 0.003224958173794365}
+(01/16/2025)20:45:19:: Cache Added to Database.(Cache Len: 103, DB Len:18098)
+(01/16/2025)20:45:49:: Cache Added to Database.(Cache Len: 100, DB Len:18198)
+(01/16/2025)20:46:24:: Cache Added to Database.(Cache Len: 105, DB Len:18298)
+(01/16/2025)20:47:36:: Cache Added to Database.(Cache Len: 104, DB Len:18400)
+(01/16/2025)20:48:06:: Cache Added to Database.(Cache Len: 106, DB Len:18504)
+(01/16/2025)20:48:06:: Training Models
+(01/16/2025)20:48:07:: DB Length: 18510
+(01/16/2025)20:48:07:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.9996658095931512, 'Cross-validation Std': 0.04260891743548558}
+(01/16/2025)20:48:07:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.1492824597170264, 'Cross-validation Std': 0.03400292608661725}
+(01/16/2025)20:48:08:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44467729236914366, 'Cross-validation Std': 0.002732659317962861}
+(01/16/2025)20:48:09:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4536619966291081, 'Cross-validation Std': 0.0031509493451812396}
+(01/16/2025)20:48:37:: Cache Added to Database.(Cache Len: 104, DB Len:18609)
+(01/16/2025)20:49:07:: Cache Added to Database.(Cache Len: 102, DB Len:18711)
+(01/16/2025)20:49:37:: Cache Added to Database.(Cache Len: 107, DB Len:18812)
+(01/16/2025)20:50:11:: Cache Added to Database.(Cache Len: 104, DB Len:18918)
+(01/16/2025)20:50:42:: Cache Added to Database.(Cache Len: 107, DB Len:19018)
+(01/24/2025)22:18:59:: Program Started
+(01/24/2025)22:19:01:: Training Models
+(01/24/2025)22:19:03:: DB Length: 19058
+(01/24/2025)22:19:03:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.2947345720111563, 'Cross-validation Std': 0.05325604011830666}
+(01/24/2025)22:19:04:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.2376555332755084, 'Cross-validation Std': 0.0145649122189835}
+(01/24/2025)22:19:06:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4457972182985074, 'Cross-validation Std': 0.007441142858887433}
+(01/24/2025)22:19:08:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.454332824405357, 'Cross-validation Std': 0.014343398537986793}
+(01/24/2025)22:20:42:: Cache Added to Database.(Cache Len: 102, DB Len:19557)
+(01/24/2025)22:21:19:: Cache Added to Database.(Cache Len: 100, DB Len:19670)
+(01/24/2025)22:21:54:: Cache Added to Database.(Cache Len: 106, DB Len:19770)
+(01/24/2025)22:22:25:: Cache Added to Database.(Cache Len: 100, DB Len:19876)
+(01/24/2025)22:22:56:: Cache Added to Database.(Cache Len: 102, DB Len:19976)
+(01/24/2025)22:22:56:: Training Models
+(01/24/2025)22:22:58:: DB Length: 19240
+(01/24/2025)22:22:58:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.349669526130029, 'Cross-validation Std': 0.05772070278385348}
+(01/24/2025)22:22:59:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.2560516998239164, 'Cross-validation Std': 0.01733808700773349}
+(01/24/2025)22:23:01:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4479836785694243, 'Cross-validation Std': 0.0037958661668563306}
+(01/24/2025)22:23:03:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.442514902713487, 'Cross-validation Std': 0.007764594108514496}
+(01/24/2025)22:23:34:: Cache Added to Database.(Cache Len: 105, DB Len:20078)
+(01/24/2025)22:24:05:: Cache Added to Database.(Cache Len: 107, DB Len:20183)
+(01/24/2025)22:24:38:: Cache Added to Database.(Cache Len: 104, DB Len:20290)
+(01/24/2025)22:25:11:: Cache Added to Database.(Cache Len: 108, DB Len:20394)
+(01/24/2025)22:28:02:: Program Started
+(01/24/2025)22:28:04:: Training Models
+(01/24/2025)22:28:06:: DB Length: 19661
+(01/24/2025)22:28:07:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.3928748049613473, 'Cross-validation Std': 0.05350187439573986}
+(01/24/2025)22:28:07:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.2954825191000734, 'Cross-validation Std': 0.01663287899048506}
+(01/24/2025)22:28:09:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44693813394267, 'Cross-validation Std': 0.004075382264094685}
+(01/24/2025)22:28:11:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4430998847091323, 'Cross-validation Std': 0.01043501805589467}
+(01/24/2025)22:28:38:: Cache Added to Database.(Cache Len: 103, DB Len:20505)
+(01/24/2025)22:29:09:: Cache Added to Database.(Cache Len: 103, DB Len:20608)
+(01/24/2025)22:29:43:: Cache Added to Database.(Cache Len: 103, DB Len:20711)
+(01/24/2025)22:36:22:: Cache Added to Database.(Cache Len: 100, DB Len:20814)
+(01/24/2025)22:36:54:: Cache Added to Database.(Cache Len: 106, DB Len:20916)
+(01/24/2025)22:36:54:: Training Models
+(01/24/2025)22:36:55:: DB Length: 20174
+(01/24/2025)22:36:56:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.4198462389577555, 'Cross-validation Std': 0.06085915821566355}
+(01/24/2025)22:36:57:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.3573516549873266, 'Cross-validation Std': 0.018572707355687605}
+(01/24/2025)22:36:59:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44676470115610767, 'Cross-validation Std': 0.00481600827256765}
+(01/24/2025)22:37:00:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4450716163296418, 'Cross-validation Std': 0.00931190025063492}
+(01/24/2025)22:37:25:: Cache Added to Database.(Cache Len: 104, DB Len:21022)
+(01/24/2025)22:39:23:: Cache Added to Database.(Cache Len: 103, DB Len:21126)
+(01/24/2025)22:39:53:: Cache Added to Database.(Cache Len: 105, DB Len:21229)
+(01/24/2025)22:40:21:: Cache Added to Database.(Cache Len: 102, DB Len:21334)
+(01/24/2025)22:40:53:: Cache Added to Database.(Cache Len: 105, DB Len:21436)
+(01/24/2025)22:40:53:: Training Models
+(01/24/2025)22:40:54:: DB Length: 20687
+(01/24/2025)22:40:55:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.4676742121912203, 'Cross-validation Std': 0.06415148911752233}
+(01/24/2025)22:40:55:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.424285240052861, 'Cross-validation Std': 0.03261091812028352}
+(01/24/2025)22:40:57:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44543719647304575, 'Cross-validation Std': 0.003952450949869026}
+(01/24/2025)22:40:59:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.444290175449139, 'Cross-validation Std': 0.008970383855355148}
+(01/24/2025)22:41:27:: Cache Added to Database.(Cache Len: 108, DB Len:21541)
+(01/24/2025)22:42:05:: Cache Added to Database.(Cache Len: 105, DB Len:21651)
+(01/24/2025)22:42:37:: Cache Added to Database.(Cache Len: 105, DB Len:21756)
+(01/24/2025)22:43:07:: Cache Added to Database.(Cache Len: 106, DB Len:21861)
+(01/24/2025)22:43:39:: Cache Added to Database.(Cache Len: 103, DB Len:21967)
+(01/24/2025)22:43:39:: Training Models
+(01/24/2025)22:43:40:: DB Length: 21205
+(01/24/2025)22:43:40:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.540884383883265, 'Cross-validation Std': 0.054647374685527175}
+(01/24/2025)22:43:41:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.463478120242967, 'Cross-validation Std': 0.03554445392571623}
+(01/24/2025)22:43:43:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44784681382127023, 'Cross-validation Std': 0.0036602126850205337}
+(01/24/2025)22:43:44:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44456444976149834, 'Cross-validation Std': 0.010706005496240923}
+(01/24/2025)22:44:10:: Cache Added to Database.(Cache Len: 103, DB Len:22070)
+(01/24/2025)22:48:48:: Program Started
+(01/24/2025)22:57:19:: Program Started
+(01/24/2025)22:58:01:: Cache Added to Database.(Cache Len: 104, DB Len:22173)
+(01/24/2025)22:58:35:: Cache Added to Database.(Cache Len: 105, DB Len:22279)
+(01/24/2025)23:00:01:: Cache Added to Database.(Cache Len: 105, DB Len:22384)
+(01/24/2025)23:00:29:: Cache Added to Database.(Cache Len: 101, DB Len:22489)
+(01/24/2025)23:00:29:: Training Models
+(01/24/2025)23:00:30:: DB Length: 21716
+(01/24/2025)23:00:31:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.6055850393254003, 'Cross-validation Std': 0.053285795283811575}
+(01/24/2025)23:00:31:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.517672319668784, 'Cross-validation Std': 0.02346140486784036}
+(01/24/2025)23:00:33:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44687486042881036, 'Cross-validation Std': 0.0033650156118384075}
+(01/24/2025)23:00:34:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44295294012725533, 'Cross-validation Std': 0.012023016508018817}
+(01/24/2025)23:00:57:: Cache Added to Database.(Cache Len: 102, DB Len:22590)
+(01/24/2025)23:01:29:: Cache Added to Database.(Cache Len: 102, DB Len:22692)
+(01/24/2025)23:02:03:: Cache Added to Database.(Cache Len: 101, DB Len:22794)
+(01/24/2025)23:02:33:: Cache Added to Database.(Cache Len: 102, DB Len:22903)
+(01/24/2025)23:03:07:: Cache Added to Database.(Cache Len: 106, DB Len:23005)
+(01/24/2025)23:03:07:: Training Models
+(01/24/2025)23:03:08:: DB Length: 22223
+(01/24/2025)23:03:09:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.6611334187441313, 'Cross-validation Std': 0.05291264837675309}
+(01/24/2025)23:03:09:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.5714179304295195, 'Cross-validation Std': 0.025263666847899182}
+(01/24/2025)23:03:11:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4480924404065701, 'Cross-validation Std': 0.005882805290130291}
+(01/24/2025)23:03:13:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44334886804861123, 'Cross-validation Std': 0.011655411498426537}
+(01/24/2025)23:03:43:: Cache Added to Database.(Cache Len: 105, DB Len:23111)
+(01/24/2025)23:04:17:: Cache Added to Database.(Cache Len: 106, DB Len:23216)
+(01/24/2025)23:04:49:: Cache Added to Database.(Cache Len: 105, DB Len:23322)
+(01/24/2025)23:05:21:: Cache Added to Database.(Cache Len: 106, DB Len:23427)
+(01/24/2025)23:05:51:: Cache Added to Database.(Cache Len: 103, DB Len:23533)
+(01/24/2025)23:05:51:: Training Models
+(01/24/2025)23:05:52:: DB Length: 22745
+(01/24/2025)23:05:53:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.740711994396788, 'Cross-validation Std': 0.054759686519572935}
+(01/24/2025)23:05:54:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.644391154743748, 'Cross-validation Std': 0.033826593984522674}
+(01/24/2025)23:05:55:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44635409391286435, 'Cross-validation Std': 0.007662769045545632}
+(01/24/2025)23:05:57:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4466249606263063, 'Cross-validation Std': 0.011513477007221856}
+(01/24/2025)23:06:57:: Cache Added to Database.(Cache Len: 101, DB Len:23637)
+(01/24/2025)23:07:35:: Cache Added to Database.(Cache Len: 107, DB Len:23738)
+(01/24/2025)23:08:10:: Cache Added to Database.(Cache Len: 100, DB Len:23849)
+(01/24/2025)23:08:44:: Cache Added to Database.(Cache Len: 102, DB Len:23949)
+(01/24/2025)23:09:20:: Cache Added to Database.(Cache Len: 102, DB Len:24051)
+(01/24/2025)23:09:54:: Cache Added to Database.(Cache Len: 100, DB Len:24156)
+(01/24/2025)23:10:27:: Cache Added to Database.(Cache Len: 102, DB Len:24256)
+(01/24/2025)23:10:59:: Cache Added to Database.(Cache Len: 100, DB Len:24359)
+(01/24/2025)23:11:33:: Cache Added to Database.(Cache Len: 108, DB Len:24459)
+(01/24/2025)23:11:33:: Training Models
+(01/24/2025)23:11:34:: DB Length: 23649
+(01/24/2025)23:11:35:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.8563590354358843, 'Cross-validation Std': 0.06363607950037306}
+(01/24/2025)23:11:36:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.7407508946594428, 'Cross-validation Std': 0.03287625615134311}
+(01/24/2025)23:11:37:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4452769154739832, 'Cross-validation Std': 0.005679221381226407}
+(01/24/2025)23:11:39:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44515848745358894, 'Cross-validation Std': 0.013448596174974764}
+(01/24/2025)23:12:09:: Cache Added to Database.(Cache Len: 106, DB Len:24567)
+(01/24/2025)23:12:52:: Cache Added to Database.(Cache Len: 107, DB Len:24673)
+(01/24/2025)23:13:22:: Cache Added to Database.(Cache Len: 105, DB Len:24783)
+(01/24/2025)23:13:54:: Cache Added to Database.(Cache Len: 109, DB Len:24888)
+(01/24/2025)23:14:25:: Cache Added to Database.(Cache Len: 107, DB Len:24997)
+(01/24/2025)23:14:25:: Training Models
+(01/24/2025)23:14:26:: DB Length: 24171
+(01/24/2025)23:14:27:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.9048575055141055, 'Cross-validation Std': 0.07079362042678364}
+(01/24/2025)23:14:27:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.789626583545435, 'Cross-validation Std': 0.026482938481835604}
+(01/24/2025)23:14:29:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44846097149872677, 'Cross-validation Std': 0.003492201221450875}
+(01/24/2025)23:14:31:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4456329553428139, 'Cross-validation Std': 0.008694368311962717}
+(01/24/2025)23:14:57:: Cache Added to Database.(Cache Len: 103, DB Len:25104)
+(01/24/2025)23:15:27:: Cache Added to Database.(Cache Len: 100, DB Len:25207)
+(01/24/2025)23:16:02:: Cache Added to Database.(Cache Len: 103, DB Len:25307)
+(01/25/2025)10:59:52:: Program Started
+(01/25/2025)11:13:22:: Cache Added to Database.(Cache Len: 101, DB Len:25410)
+(01/25/2025)11:13:22:: Training Models
+(01/25/2025)11:13:24:: DB Length: 24560
+(01/25/2025)11:13:25:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.935316139871088, 'Cross-validation Std': 0.08371832362220488}
+(01/25/2025)11:13:26:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.8393759564719754, 'Cross-validation Std': 0.02701516623031499}
+(01/25/2025)11:13:29:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44639883270995345, 'Cross-validation Std': 0.0046573220294466675}
+(01/25/2025)11:13:30:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4471365388640528, 'Cross-validation Std': 0.006694413551377493}
+(01/25/2025)13:43:56:: Cache Added to Database.(Cache Len: 100, DB Len:25511)
+(01/25/2025)14:33:51:: Program Started
+(01/25/2025)14:33:53:: Training Models
+(01/25/2025)14:33:54:: DB Length: 24628
+(01/25/2025)14:33:55:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.9232530384444724, 'Cross-validation Std': 0.08288885740312882}
+(01/25/2025)14:33:56:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.843139313514337, 'Cross-validation Std': 0.03010542442557741}
+(01/25/2025)14:33:57:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44511643173488197, 'Cross-validation Std': 0.0049312726985847625}
+(01/25/2025)14:33:59:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4423943993441061, 'Cross-validation Std': 0.007387872535463888}
+(01/25/2025)14:34:33:: Cache Added to Database.(Cache Len: 102, DB Len:25611)
+(01/25/2025)14:34:49:: Cache Added to Database.(Cache Len: 103, DB Len:25611)
+(01/25/2025)14:35:06:: Cache Added to Database.(Cache Len: 106, DB Len:25735)
+(01/25/2025)14:35:18:: Cache Added to Database.(Cache Len: 101, DB Len:25714)
+(01/25/2025)14:35:38:: Cache Added to Database.(Cache Len: 102, DB Len:25841)
+(01/25/2025)14:35:52:: Cache Added to Database.(Cache Len: 104, DB Len:25815)
+(01/25/2025)14:36:11:: Cache Added to Database.(Cache Len: 101, DB Len:25948)
+(01/25/2025)14:36:11:: Training Models
+(01/25/2025)14:36:12:: DB Length: 25038
+(01/25/2025)14:36:13:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.0559369907911957, 'Cross-validation Std': 0.0714578200598602}
+(01/25/2025)14:36:13:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.885337881995693, 'Cross-validation Std': 0.028261834732847164}
+(01/25/2025)14:36:15:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4450712527794707, 'Cross-validation Std': 0.004235211557774543}
+(01/25/2025)14:36:17:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44062856594360744, 'Cross-validation Std': 0.006914768586464709}
+(01/25/2025)14:36:27:: Cache Added to Database.(Cache Len: 101, DB Len:25919)
+(01/25/2025)14:36:51:: Cache Added to Database.(Cache Len: 103, DB Len:26052)
+(01/25/2025)14:37:05:: Cache Added to Database.(Cache Len: 105, DB Len:26020)
+(01/25/2025)14:37:05:: Training Models
+(01/25/2025)14:37:07:: DB Length: 25120
+(01/25/2025)14:37:07:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.9695940838557595, 'Cross-validation Std': 0.0761240079919793}
+(01/25/2025)14:37:08:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.893453332408661, 'Cross-validation Std': 0.023903889516359345}
+(01/25/2025)14:37:10:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44657812667560304, 'Cross-validation Std': 0.002502636257239412}
+(01/25/2025)14:37:11:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.445221067784445, 'Cross-validation Std': 0.007258803911907458}
+(01/25/2025)14:37:27:: Cache Added to Database.(Cache Len: 106, DB Len:26159)
+(01/25/2025)14:37:46:: Cache Added to Database.(Cache Len: 105, DB Len:26125)
+(01/25/2025)14:38:08:: Cache Added to Database.(Cache Len: 105, DB Len:26265)
+(01/25/2025)14:38:18:: Cache Added to Database.(Cache Len: 108, DB Len:26237)
+(01/25/2025)14:38:40:: Cache Added to Database.(Cache Len: 103, DB Len:26378)
+(01/25/2025)14:38:55:: Cache Added to Database.(Cache Len: 102, DB Len:26345)
+(01/25/2025)14:39:17:: Cache Added to Database.(Cache Len: 102, DB Len:26481)
+(01/25/2025)14:39:17:: Training Models
+(01/25/2025)14:39:18:: DB Length: 25548
+(01/25/2025)14:39:19:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.120889699670003, 'Cross-validation Std': 0.06411533793522835}
+(01/25/2025)14:39:19:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.950875331917192, 'Cross-validation Std': 0.020453959200276657}
+(01/25/2025)14:39:21:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4436474694517991, 'Cross-validation Std': 0.0035787851133413442}
+(01/25/2025)14:39:23:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44280187541893756, 'Cross-validation Std': 0.005069808911342528}
+(01/25/2025)14:39:35:: Cache Added to Database.(Cache Len: 105, DB Len:26447)
+(01/25/2025)14:39:53:: Cache Added to Database.(Cache Len: 103, DB Len:26583)
+(01/25/2025)14:43:24:: Cache Added to Database.(Cache Len: 106, DB Len:26552)
+(01/25/2025)14:43:46:: Cache Added to Database.(Cache Len: 101, DB Len:26686)
+(01/25/2025)14:44:01:: Cache Added to Database.(Cache Len: 104, DB Len:26658)
+(01/25/2025)14:44:18:: Cache Added to Database.(Cache Len: 101, DB Len:26796)
+(01/25/2025)17:54:13:: Cache Added to Database.(Cache Len: 103, DB Len:26762)
+(01/25/2025)17:59:21:: Cache Added to Database.(Cache Len: 103, DB Len:26897)
+(01/25/2025)17:59:28:: Cache Added to Database.(Cache Len: 100, DB Len:26865)
+(01/25/2025)17:59:54:: Cache Added to Database.(Cache Len: 100, DB Len:27016)
+(01/25/2025)17:59:54:: Training Models
+(01/25/2025)17:59:55:: DB Length: 26046
+(01/25/2025)17:59:56:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.167843489035678, 'Cross-validation Std': 0.060969670855314205}
+(01/25/2025)17:59:56:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.9972203605808834, 'Cross-validation Std': 0.01685212843821802}
+(01/25/2025)17:59:58:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4446852011610699, 'Cross-validation Std': 0.004565825139740349}
+(01/25/2025)18:00:00:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44554883341688356, 'Cross-validation Std': 0.006018794114032075}
+(01/25/2025)18:00:01:: Cache Added to Database.(Cache Len: 104, DB Len:26965)
+(01/25/2025)18:00:01:: Training Models
+(01/25/2025)18:00:02:: DB Length: 26017
+(01/25/2025)18:00:03:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.0666318369126513, 'Cross-validation Std': 0.06943920876556332}
+(01/25/2025)18:00:03:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -2.99702157798738, 'Cross-validation Std': 0.016498956321594867}
+(01/25/2025)18:00:05:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.446194719477002, 'Cross-validation Std': 0.003886077892477989}
+(01/25/2025)18:00:07:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4434515260877059, 'Cross-validation Std': 0.00608128090288165}
+(01/25/2025)18:00:22:: Cache Added to Database.(Cache Len: 106, DB Len:27116)
+(01/25/2025)18:00:31:: Cache Added to Database.(Cache Len: 105, DB Len:27072)
+(01/25/2025)18:00:53:: Cache Added to Database.(Cache Len: 103, DB Len:27222)
+(01/25/2025)18:01:04:: Cache Added to Database.(Cache Len: 100, DB Len:27177)
+(01/25/2025)18:02:17:: Cache Added to Database.(Cache Len: 109, DB Len:27325)
+(01/25/2025)18:02:27:: Cache Added to Database.(Cache Len: 104, DB Len:27277)
+(01/25/2025)18:02:52:: Cache Added to Database.(Cache Len: 101, DB Len:27434)
+(01/25/2025)18:03:03:: Cache Added to Database.(Cache Len: 103, DB Len:27381)
+(01/25/2025)18:04:55:: Cache Added to Database.(Cache Len: 104, DB Len:27535)
+(01/25/2025)18:04:55:: Training Models
+(01/25/2025)18:04:56:: DB Length: 26544
+(01/25/2025)18:04:57:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.260872574325346, 'Cross-validation Std': 0.07055127704041689}
+(01/25/2025)18:04:58:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.0545287092715503, 'Cross-validation Std': 0.011025926924723586}
+(01/25/2025)18:04:59:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4432680421588028, 'Cross-validation Std': 0.004029070034120543}
+(01/25/2025)18:05:01:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4438394549311687, 'Cross-validation Std': 0.005757283913323367}
+(01/25/2025)18:05:08:: Cache Added to Database.(Cache Len: 105, DB Len:27484)
+(01/25/2025)18:05:08:: Training Models
+(01/25/2025)18:05:09:: DB Length: 26510
+(01/25/2025)18:05:10:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.167790771456033, 'Cross-validation Std': 0.07668775232179041}
+(01/25/2025)18:05:11:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.0559830986242753, 'Cross-validation Std': 0.012749940765129204}
+(01/25/2025)18:05:13:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.445800998513506, 'Cross-validation Std': 0.004033223902347883}
+(01/25/2025)18:05:14:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4414321149491731, 'Cross-validation Std': 0.005733652579622056}
+(01/25/2025)18:05:28:: Cache Added to Database.(Cache Len: 105, DB Len:27639)
+(01/25/2025)18:05:39:: Cache Added to Database.(Cache Len: 100, DB Len:27589)
+(01/25/2025)18:06:04:: Cache Added to Database.(Cache Len: 100, DB Len:27744)
+(01/25/2025)18:06:14:: Cache Added to Database.(Cache Len: 107, DB Len:27689)
+(01/25/2025)18:06:37:: Cache Added to Database.(Cache Len: 105, DB Len:27847)
+(01/25/2025)18:06:46:: Cache Added to Database.(Cache Len: 100, DB Len:27796)
+(01/25/2025)18:07:11:: Cache Added to Database.(Cache Len: 102, DB Len:27952)
+(01/25/2025)18:07:21:: Cache Added to Database.(Cache Len: 103, DB Len:27896)
+(01/25/2025)18:09:20:: Cache Added to Database.(Cache Len: 102, DB Len:28054)
+(01/25/2025)18:09:32:: Cache Added to Database.(Cache Len: 104, DB Len:28003)
+(01/25/2025)18:09:32:: Training Models
+(01/25/2025)18:09:33:: DB Length: 27015
+(01/25/2025)18:09:34:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.220846588305234, 'Cross-validation Std': 0.06368452378434698}
+(01/25/2025)18:09:35:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.11633430779331, 'Cross-validation Std': 0.01951762668008817}
+(01/25/2025)18:09:36:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44695505595782203, 'Cross-validation Std': 0.0038354420418379525}
+(01/25/2025)18:09:38:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44583973616932376, 'Cross-validation Std': 0.006631350896288782}
+(01/25/2025)18:09:55:: Cache Added to Database.(Cache Len: 104, DB Len:28156)
+(01/25/2025)18:10:09:: Cache Added to Database.(Cache Len: 101, DB Len:28111)
+(01/25/2025)18:11:05:: Cache Added to Database.(Cache Len: 103, DB Len:28260)
+(01/25/2025)18:11:16:: Cache Added to Database.(Cache Len: 103, DB Len:28212)
+(01/25/2025)18:11:36:: Cache Added to Database.(Cache Len: 103, DB Len:28363)
+(01/25/2025)18:11:46:: Cache Added to Database.(Cache Len: 100, DB Len:28315)
+(01/25/2025)18:12:09:: Cache Added to Database.(Cache Len: 104, DB Len:28471)
+(01/25/2025)18:12:09:: Training Models
+(01/25/2025)18:12:10:: DB Length: 27453
+(01/25/2025)18:12:11:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.3834103637772595, 'Cross-validation Std': 0.06075058620680987}
+(01/25/2025)18:12:12:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.1688685270394013, 'Cross-validation Std': 0.022845068407491773}
+(01/25/2025)18:12:13:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4447224050982624, 'Cross-validation Std': 0.006008257834234447}
+(01/25/2025)18:12:15:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4432822914168872, 'Cross-validation Std': 0.005946486663182242}
+(01/25/2025)18:12:21:: Cache Added to Database.(Cache Len: 103, DB Len:28415)
+(01/25/2025)18:12:40:: Cache Added to Database.(Cache Len: 104, DB Len:28576)
+(01/25/2025)18:12:54:: Cache Added to Database.(Cache Len: 103, DB Len:28518)
+(01/25/2025)18:12:54:: Training Models
+(01/25/2025)18:12:55:: DB Length: 27506
+(01/25/2025)18:12:56:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.3238768042112525, 'Cross-validation Std': 0.06658741386376328}
+(01/25/2025)18:12:57:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.179950307200266, 'Cross-validation Std': 0.020282229698387198}
+(01/25/2025)18:12:59:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44797662763420004, 'Cross-validation Std': 0.006209921464955883}
+(01/25/2025)18:13:00:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4449015356752081, 'Cross-validation Std': 0.004700632460405885}
+(01/25/2025)18:13:12:: Cache Added to Database.(Cache Len: 102, DB Len:28680)
+(01/25/2025)18:17:33:: Cache Added to Database.(Cache Len: 100, DB Len:28621)
+(01/25/2025)18:17:53:: Cache Added to Database.(Cache Len: 103, DB Len:28782)
+(01/25/2025)18:18:06:: Cache Added to Database.(Cache Len: 104, DB Len:28721)
+(01/25/2025)18:18:26:: Cache Added to Database.(Cache Len: 103, DB Len:28885)
+(01/25/2025)18:19:05:: Cache Added to Database.(Cache Len: 105, DB Len:28825)
+(01/25/2025)18:19:18:: Cache Added to Database.(Cache Len: 106, DB Len:28988)
+(01/25/2025)18:19:18:: Training Models
+(01/25/2025)18:19:20:: DB Length: 27951
+(01/25/2025)18:19:21:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.4293463464963843, 'Cross-validation Std': 0.06098176379188753}
+(01/25/2025)18:19:22:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.2243451984959544, 'Cross-validation Std': 0.029776617263666476}
+(01/25/2025)18:19:23:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44679852052990726, 'Cross-validation Std': 0.005661947138636182}
+(01/25/2025)18:19:25:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44415166754250707, 'Cross-validation Std': 0.007179708588082599}
+(01/25/2025)18:19:35:: Cache Added to Database.(Cache Len: 104, DB Len:28936)
+(01/25/2025)18:19:52:: Cache Added to Database.(Cache Len: 101, DB Len:29094)
+(01/25/2025)18:20:12:: Cache Added to Database.(Cache Len: 107, DB Len:29040)
+(01/25/2025)18:20:22:: Cache Added to Database.(Cache Len: 102, DB Len:29195)
+(01/25/2025)18:20:45:: Cache Added to Database.(Cache Len: 103, DB Len:29152)
+(01/25/2025)18:20:57:: Cache Added to Database.(Cache Len: 110, DB Len:29297)
+(01/25/2025)18:21:18:: Cache Added to Database.(Cache Len: 103, DB Len:29255)
+(01/25/2025)18:21:32:: Cache Added to Database.(Cache Len: 107, DB Len:29407)
+(01/25/2025)18:21:47:: Cache Added to Database.(Cache Len: 100, DB Len:29358)
+(01/25/2025)18:24:21:: Cache Added to Database.(Cache Len: 104, DB Len:29514)
+(01/25/2025)18:24:21:: Training Models
+(01/25/2025)18:24:22:: DB Length: 28462
+(01/25/2025)18:24:23:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.50019099740758, 'Cross-validation Std': 0.06648821739726085}
+(01/25/2025)18:24:24:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.2784361869184253, 'Cross-validation Std': 0.03198526174841059}
+(01/25/2025)18:24:26:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4465335158120207, 'Cross-validation Std': 0.011906753532772318}
+(01/25/2025)18:24:27:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44407626312622045, 'Cross-validation Std': 0.005152002564959813}
+(01/25/2025)18:24:39:: Cache Added to Database.(Cache Len: 106, DB Len:29458)
+(01/25/2025)18:24:39:: Training Models
+(01/25/2025)18:24:41:: DB Length: 28422
+(01/25/2025)18:24:42:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.429696891619307, 'Cross-validation Std': 0.07792819186726317}
+(01/25/2025)18:24:43:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.2786866461173503, 'Cross-validation Std': 0.03398715068207294}
+(01/25/2025)18:24:44:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4484577850236711, 'Cross-validation Std': 0.007772152279602803}
+(01/25/2025)18:24:46:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4424323770539454, 'Cross-validation Std': 0.005584150998888455}
+(01/25/2025)18:25:30:: Cache Added to Database.(Cache Len: 105, DB Len:29618)
+(01/25/2025)18:25:45:: Cache Added to Database.(Cache Len: 106, DB Len:29564)
+(01/25/2025)18:26:03:: Cache Added to Database.(Cache Len: 107, DB Len:29723)
+(01/25/2025)18:26:16:: Cache Added to Database.(Cache Len: 102, DB Len:29670)
+(01/25/2025)18:27:32:: Cache Added to Database.(Cache Len: 101, DB Len:29831)
+(01/25/2025)18:27:47:: Cache Added to Database.(Cache Len: 104, DB Len:29772)
+(01/25/2025)18:28:03:: Cache Added to Database.(Cache Len: 105, DB Len:29932)
+(01/25/2025)18:28:16:: Cache Added to Database.(Cache Len: 100, DB Len:29876)
+(01/25/2025)18:28:36:: Cache Added to Database.(Cache Len: 102, DB Len:30037)
+(01/25/2025)18:28:36:: Training Models
+(01/25/2025)18:28:37:: DB Length: 28968
+(01/25/2025)18:28:38:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5330133331082303, 'Cross-validation Std': 0.07491150806815858}
+(01/25/2025)18:28:39:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.3294948142969774, 'Cross-validation Std': 0.026523350845318084}
+(01/25/2025)18:28:41:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44875915363370245, 'Cross-validation Std': 0.012118522469982709}
+(01/25/2025)18:28:42:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4455969784668456, 'Cross-validation Std': 0.006158405227857707}
+(01/25/2025)18:28:51:: Cache Added to Database.(Cache Len: 101, DB Len:29976)
+(01/25/2025)18:28:51:: Training Models
+(01/25/2025)18:28:52:: DB Length: 28914
+(01/25/2025)18:28:53:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.462797431676397, 'Cross-validation Std': 0.08615065366303222}
+(01/25/2025)18:28:54:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.338375317379912, 'Cross-validation Std': 0.03136356095621615}
+(01/25/2025)18:28:56:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44964343456644784, 'Cross-validation Std': 0.009938349279346769}
+(01/25/2025)18:28:58:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44532020728868627, 'Cross-validation Std': 0.004889770146605154}
+(01/25/2025)18:29:07:: Cache Added to Database.(Cache Len: 104, DB Len:30139)
+(01/25/2025)18:29:23:: Cache Added to Database.(Cache Len: 100, DB Len:30077)
+(01/25/2025)18:29:40:: Cache Added to Database.(Cache Len: 100, DB Len:30243)
+(01/25/2025)18:29:57:: Cache Added to Database.(Cache Len: 105, DB Len:30177)
+(01/25/2025)18:30:13:: Cache Added to Database.(Cache Len: 100, DB Len:30343)
+(01/25/2025)18:30:32:: Cache Added to Database.(Cache Len: 103, DB Len:30287)
+(01/25/2025)18:30:48:: Cache Added to Database.(Cache Len: 106, DB Len:30443)
+(01/25/2025)18:31:31:: Cache Added to Database.(Cache Len: 102, DB Len:30390)
+(01/25/2025)18:31:49:: Cache Added to Database.(Cache Len: 104, DB Len:30552)
+(01/25/2025)18:32:06:: Cache Added to Database.(Cache Len: 101, DB Len:30492)
+(01/25/2025)18:32:06:: Training Models
+(01/25/2025)18:32:08:: DB Length: 29411
+(01/25/2025)18:32:09:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5090556998411886, 'Cross-validation Std': 0.08080705405637986}
+(01/25/2025)18:32:10:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.395386562347807, 'Cross-validation Std': 0.027079388318891402}
+(01/25/2025)18:32:11:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4518122839982273, 'Cross-validation Std': 0.008996814062199909}
+(01/25/2025)18:32:13:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.442890309619001, 'Cross-validation Std': 0.004127099491985438}
+(01/25/2025)18:38:50:: Cache Added to Database.(Cache Len: 105, DB Len:30664)
+(01/25/2025)18:39:04:: Cache Added to Database.(Cache Len: 101, DB Len:30593)
+(01/25/2025)18:39:22:: Cache Added to Database.(Cache Len: 101, DB Len:30769)
+(01/25/2025)18:39:35:: Cache Added to Database.(Cache Len: 104, DB Len:30694)
+(01/25/2025)18:39:51:: Cache Added to Database.(Cache Len: 101, DB Len:30870)
+(01/25/2025)18:40:06:: Cache Added to Database.(Cache Len: 106, DB Len:30798)
+(01/25/2025)18:40:22:: Cache Added to Database.(Cache Len: 104, DB Len:30972)
+(01/25/2025)18:40:22:: Training Models
+(01/25/2025)18:40:23:: DB Length: 29877
+(01/25/2025)18:40:25:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.62679634748934, 'Cross-validation Std': 0.06755756946530649}
+(01/25/2025)18:40:26:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.4389490421676525, 'Cross-validation Std': 0.02288355427286332}
+(01/25/2025)18:40:27:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.451204105363631, 'Cross-validation Std': 0.016566856159587206}
+(01/25/2025)18:40:29:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4435356586927928, 'Cross-validation Std': 0.00535145480455321}
+(01/25/2025)18:40:37:: Cache Added to Database.(Cache Len: 104, DB Len:30904)
+(01/25/2025)18:40:50:: Cache Added to Database.(Cache Len: 103, DB Len:31076)
+(01/25/2025)18:41:06:: Cache Added to Database.(Cache Len: 108, DB Len:31008)
+(01/25/2025)18:41:06:: Training Models
+(01/25/2025)18:41:07:: DB Length: 29928
+(01/25/2025)18:41:09:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.568997119603116, 'Cross-validation Std': 0.08767943242100347}
+(01/25/2025)18:41:10:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.4471068316567406, 'Cross-validation Std': 0.023614147783447677}
+(01/25/2025)18:41:12:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4512224529710561, 'Cross-validation Std': 0.016088311386055636}
+(01/25/2025)18:41:14:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4448205266423807, 'Cross-validation Std': 0.004009160548667816}
+(01/25/2025)18:42:47:: Cache Added to Database.(Cache Len: 100, DB Len:31179)
+(01/25/2025)18:43:05:: Cache Added to Database.(Cache Len: 108, DB Len:31116)
+(01/25/2025)18:43:16:: Cache Added to Database.(Cache Len: 100, DB Len:31280)
+(01/25/2025)18:43:36:: Cache Added to Database.(Cache Len: 107, DB Len:31226)
+(01/25/2025)18:43:47:: Cache Added to Database.(Cache Len: 109, DB Len:31380)
+(01/25/2025)18:44:09:: Cache Added to Database.(Cache Len: 106, DB Len:31333)
+(01/25/2025)18:44:20:: Cache Added to Database.(Cache Len: 102, DB Len:31489)
+(01/25/2025)18:44:20:: Training Models
+(01/25/2025)18:44:21:: DB Length: 30388
+(01/25/2025)18:44:22:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.674565229121444, 'Cross-validation Std': 0.0710975248482778}
+(01/25/2025)18:44:23:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.4913449597753448, 'Cross-validation Std': 0.016904561387374287}
+(01/25/2025)18:44:25:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4509392066136602, 'Cross-validation Std': 0.01681838371389597}
+(01/25/2025)18:44:27:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44245005670746923, 'Cross-validation Std': 0.005099238742007303}
+(01/25/2025)18:44:40:: Cache Added to Database.(Cache Len: 102, DB Len:31439)
+(01/25/2025)18:44:54:: Cache Added to Database.(Cache Len: 108, DB Len:31591)
+(01/25/2025)18:45:13:: Cache Added to Database.(Cache Len: 102, DB Len:31541)
+(01/25/2025)18:45:13:: Training Models
+(01/25/2025)18:45:14:: DB Length: 30447
+(01/25/2025)18:45:15:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.6233866475235224, 'Cross-validation Std': 0.09976361107823142}
+(01/25/2025)18:45:16:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.500487524986288, 'Cross-validation Std': 0.013142881447563572}
+(01/25/2025)18:45:19:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4526118976243171, 'Cross-validation Std': 0.016047974355118195}
+(01/25/2025)18:45:21:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44670384371641153, 'Cross-validation Std': 0.006127810233570259}
+(01/25/2025)19:07:24:: Cache Added to Database.(Cache Len: 100, DB Len:31699)
+(01/25/2025)19:28:45:: Cache Added to Database.(Cache Len: 101, DB Len:31825)
+(01/25/2025)19:30:58:: Program Started
+(01/25/2025)19:55:03:: Cache Added to Database.(Cache Len: 100, DB Len:31926)
+(01/25/2025)19:55:03:: Cache Added to Database.(Cache Len: 100, DB Len:31926)
+(01/25/2025)19:55:03:: Training Models
+(01/25/2025)19:55:46:: Cache Added to Database.(Cache Len: 110, DB Len:32040)
+(01/25/2025)19:55:46:: Training Models
+(01/25/2025)19:55:48:: DB Length: 30821
+(01/25/2025)19:55:49:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.726097448196009, 'Cross-validation Std': 0.07561867989293532}
+(01/25/2025)19:55:50:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5342632426632243, 'Cross-validation Std': 0.02220094506326802}
+(01/25/2025)19:55:52:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4495456522305935, 'Cross-validation Std': 0.019553562020784218}
+(01/25/2025)19:55:53:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4454081684546122, 'Cross-validation Std': 0.005219932777890361}
+(01/25/2025)19:56:40:: Cache Added to Database.(Cache Len: 100, DB Len:32150)
+(01/25/2025)20:08:37:: Program Started
+(01/25/2025)20:14:38:: Cache Added to Database.(Cache Len: 101, DB Len:32250)
+(01/25/2025)20:39:48:: Cache Added to Database.(Cache Len: 102, DB Len:32250)
+(01/25/2025)20:39:49:: Cache Added to Database.(Cache Len: 108, DB Len:32351)
+(01/25/2025)20:40:20:: Cache Added to Database.(Cache Len: 106, DB Len:32372)
+(01/25/2025)20:40:20:: Cache Added to Database.(Cache Len: 105, DB Len:32459)
+(01/25/2025)20:40:51:: Cache Added to Database.(Cache Len: 107, DB Len:32478)
+(01/25/2025)20:40:51:: Training Models
+(01/25/2025)20:40:52:: Cache Added to Database.(Cache Len: 108, DB Len:32564)
+(01/25/2025)20:41:29:: Cache Added to Database.(Cache Len: 104, DB Len:32672)
+(01/25/2025)20:42:06:: Cache Added to Database.(Cache Len: 105, DB Len:32779)
+(01/25/2025)20:42:35:: Cache Added to Database.(Cache Len: 100, DB Len:32884)
+(01/25/2025)20:43:06:: Cache Added to Database.(Cache Len: 103, DB Len:32984)
+(01/25/2025)20:43:06:: Training Models
+(01/25/2025)20:43:07:: DB Length: 31701
+(01/25/2025)20:43:09:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.829137830897286, 'Cross-validation Std': 0.08945237676497626}
+(01/25/2025)20:43:10:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.6468086458099456, 'Cross-validation Std': 0.01859700035071952}
+(01/25/2025)20:43:12:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4516080180046493, 'Cross-validation Std': 0.01607082743524762}
+(01/25/2025)20:43:14:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4432350213302378, 'Cross-validation Std': 0.004461178963283196}
+(01/25/2025)20:43:39:: Cache Added to Database.(Cache Len: 108, DB Len:33087)
+(01/25/2025)20:44:12:: Cache Added to Database.(Cache Len: 101, DB Len:33195)
+(01/25/2025)20:44:47:: Cache Added to Database.(Cache Len: 104, DB Len:33296)
+(01/25/2025)20:45:20:: Cache Added to Database.(Cache Len: 102, DB Len:33400)
+(01/25/2025)20:45:51:: Cache Added to Database.(Cache Len: 103, DB Len:33502)
+(01/25/2025)20:45:51:: Training Models
+(01/25/2025)20:45:53:: DB Length: 32204
+(01/25/2025)20:45:54:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.8786694053346564, 'Cross-validation Std': 0.09194847355397602}
+(01/25/2025)20:45:55:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.703021567323261, 'Cross-validation Std': 0.013750918721824303}
+(01/25/2025)20:45:57:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4533606676918809, 'Cross-validation Std': 0.015962237472019726}
+(01/25/2025)20:45:59:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44328465464236355, 'Cross-validation Std': 0.004797111063113249}
+(01/25/2025)20:46:28:: Cache Added to Database.(Cache Len: 104, DB Len:33605)
+(01/25/2025)20:47:03:: Cache Added to Database.(Cache Len: 109, DB Len:33709)
+(01/25/2025)20:47:36:: Cache Added to Database.(Cache Len: 104, DB Len:33818)
+(01/25/2025)20:48:11:: Cache Added to Database.(Cache Len: 104, DB Len:33922)
+(01/25/2025)20:48:45:: Cache Added to Database.(Cache Len: 103, DB Len:34026)
+(01/25/2025)20:48:45:: Training Models
+(01/25/2025)20:48:46:: DB Length: 32713
+(01/25/2025)20:48:47:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.9596733529866723, 'Cross-validation Std': 0.09920153056224662}
+(01/25/2025)20:48:49:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.7626506463623373, 'Cross-validation Std': 0.013559572333317959}
+(01/25/2025)20:48:51:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4515252004498955, 'Cross-validation Std': 0.018213281033617548}
+(01/25/2025)20:48:53:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4433879548918519, 'Cross-validation Std': 0.002195358071868233}
+(01/25/2025)20:49:16:: Cache Added to Database.(Cache Len: 103, DB Len:34129)
+(01/25/2025)20:49:47:: Cache Added to Database.(Cache Len: 100, DB Len:34232)
+(01/25/2025)20:50:20:: Cache Added to Database.(Cache Len: 101, DB Len:34332)
+(01/25/2025)20:50:57:: Cache Added to Database.(Cache Len: 105, DB Len:34436)
+(01/25/2025)20:51:33:: Cache Added to Database.(Cache Len: 101, DB Len:34546)
+(01/25/2025)20:51:33:: Training Models
+(01/25/2025)20:51:34:: DB Length: 33220
+(01/25/2025)20:51:35:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.013408871615684, 'Cross-validation Std': 0.11787583794130924}
+(01/25/2025)20:51:37:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.809452877720021, 'Cross-validation Std': 0.017109089306342636}
+(01/25/2025)20:51:39:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4529940473910222, 'Cross-validation Std': 0.015784032362493434}
+(01/25/2025)20:51:41:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4414558751926436, 'Cross-validation Std': 0.001355097417484098}
+(01/25/2025)20:52:10:: Cache Added to Database.(Cache Len: 105, DB Len:34649)
+(01/25/2025)20:52:39:: Cache Added to Database.(Cache Len: 100, DB Len:34754)
+(01/25/2025)20:53:34:: Cache Added to Database.(Cache Len: 104, DB Len:34854)
+(01/25/2025)20:54:04:: Cache Added to Database.(Cache Len: 105, DB Len:34968)
+(01/25/2025)20:54:45:: Cache Added to Database.(Cache Len: 104, DB Len:35073)
+(01/25/2025)20:55:26:: Cache Added to Database.(Cache Len: 106, DB Len:35177)
+(01/25/2025)20:56:02:: Cache Added to Database.(Cache Len: 102, DB Len:35283)
+(01/25/2025)20:58:05:: Cache Added to Database.(Cache Len: 101, DB Len:35385)
+(01/25/2025)21:00:05:: Program Started
+(01/26/2025)10:04:44:: Program Started
+(01/26/2025)11:10:54:: Cache Added to Database.(Cache Len: 105, DB Len:35496)
+(01/26/2025)11:10:54:: Training Models
+(01/26/2025)11:10:56:: DB Length: 34188
+(01/26/2025)11:10:57:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.112602570162301, 'Cross-validation Std': 0.12389876365340356}
+(01/26/2025)11:10:59:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.946501380604544, 'Cross-validation Std': 0.016008864361225734}
+(01/26/2025)11:11:01:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4503922345695199, 'Cross-validation Std': 0.012795957636582327}
+(01/26/2025)11:11:03:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4447156004027252, 'Cross-validation Std': 0.004040203513360614}
+(01/26/2025)11:12:06:: Cache Added to Database.(Cache Len: 101, DB Len:35601)
+(01/26/2025)11:12:48:: Cache Added to Database.(Cache Len: 101, DB Len:35702)
+(01/26/2025)11:13:33:: Cache Added to Database.(Cache Len: 104, DB Len:35803)
+(01/26/2025)11:14:08:: Cache Added to Database.(Cache Len: 102, DB Len:35907)
+(01/26/2025)11:17:14:: Cache Added to Database.(Cache Len: 104, DB Len:36009)
+(01/26/2025)11:17:14:: Training Models
+(01/26/2025)11:17:15:: DB Length: 34678
+(01/26/2025)11:17:17:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.147269985126536, 'Cross-validation Std': 0.1361087474689515}
+(01/26/2025)11:17:18:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.0187972809541295, 'Cross-validation Std': 0.030466785353786982}
+(01/26/2025)11:17:20:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4500889804220353, 'Cross-validation Std': 0.011535245964176353}
+(01/26/2025)11:17:22:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44499590833534597, 'Cross-validation Std': 0.002536818291732728}
+(01/26/2025)11:17:46:: Cache Added to Database.(Cache Len: 101, DB Len:36122)
+(01/26/2025)11:18:17:: Cache Added to Database.(Cache Len: 103, DB Len:36223)
+(01/26/2025)11:18:48:: Cache Added to Database.(Cache Len: 101, DB Len:36329)
+(01/26/2025)11:21:44:: Cache Added to Database.(Cache Len: 103, DB Len:36431)
+(01/26/2025)11:22:31:: Cache Added to Database.(Cache Len: 100, DB Len:36534)
+(01/26/2025)11:22:31:: Training Models
+(01/26/2025)11:22:33:: DB Length: 35176
+(01/26/2025)11:22:34:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.209015412106532, 'Cross-validation Std': 0.1284987582208545}
+(01/26/2025)11:22:36:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.090655509573982, 'Cross-validation Std': 0.03880585828318975}
+(01/26/2025)11:22:38:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45142489460302376, 'Cross-validation Std': 0.008445585990337005}
+(01/26/2025)11:22:40:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442916100739428, 'Cross-validation Std': 0.0048259427439571725}
+(01/26/2025)11:23:05:: Cache Added to Database.(Cache Len: 103, DB Len:36634)
+(01/26/2025)11:23:35:: Cache Added to Database.(Cache Len: 105, DB Len:36737)
+(01/26/2025)11:24:04:: Cache Added to Database.(Cache Len: 101, DB Len:36842)
+(01/26/2025)11:24:46:: Cache Added to Database.(Cache Len: 101, DB Len:36943)
+(01/26/2025)11:25:31:: Cache Added to Database.(Cache Len: 101, DB Len:37044)
+(01/26/2025)11:25:31:: Training Models
+(01/26/2025)11:25:33:: DB Length: 35673
+(01/26/2025)11:25:34:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.27555225225299, 'Cross-validation Std': 0.13082343213096287}
+(01/26/2025)11:25:36:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.143158275513458, 'Cross-validation Std': 0.03449236936415378}
+(01/26/2025)11:25:38:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45128548451066147, 'Cross-validation Std': 0.007610335038528434}
+(01/26/2025)11:25:40:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4432137686409446, 'Cross-validation Std': 0.003634141904952295}
+(01/26/2025)11:26:03:: Cache Added to Database.(Cache Len: 103, DB Len:37145)
+(01/26/2025)11:26:35:: Cache Added to Database.(Cache Len: 102, DB Len:37248)
+(01/26/2025)11:27:34:: Cache Added to Database.(Cache Len: 103, DB Len:37350)
+(01/26/2025)11:28:08:: Cache Added to Database.(Cache Len: 104, DB Len:37453)
+(01/26/2025)11:28:43:: Cache Added to Database.(Cache Len: 104, DB Len:37557)
+(01/26/2025)11:29:17:: Cache Added to Database.(Cache Len: 106, DB Len:37661)
+(01/26/2025)11:29:50:: Cache Added to Database.(Cache Len: 102, DB Len:37767)
+(01/26/2025)11:30:24:: Cache Added to Database.(Cache Len: 102, DB Len:37869)
+(01/26/2025)11:43:38:: Cache Added to Database.(Cache Len: 102, DB Len:37971)
+(01/26/2025)11:43:38:: Training Models
+(01/26/2025)11:43:39:: DB Length: 36581
+(01/26/2025)11:43:41:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.383751946254325, 'Cross-validation Std': 0.12645199188842066}
+(01/26/2025)11:43:43:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.24441904537569, 'Cross-validation Std': 0.02881775715234106}
+(01/26/2025)11:43:45:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4515428357983766, 'Cross-validation Std': 0.00628810321047714}
+(01/26/2025)11:43:47:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4422850345732347, 'Cross-validation Std': 0.003073927158152486}
+(01/26/2025)11:44:10:: Cache Added to Database.(Cache Len: 101, DB Len:38073)
+(01/26/2025)11:44:42:: Cache Added to Database.(Cache Len: 106, DB Len:38178)
+(01/26/2025)11:45:13:: Cache Added to Database.(Cache Len: 105, DB Len:38284)
+(01/26/2025)11:45:43:: Cache Added to Database.(Cache Len: 100, DB Len:38390)
+(01/26/2025)11:46:11:: Cache Added to Database.(Cache Len: 101, DB Len:38489)
+(01/26/2025)11:46:11:: Training Models
+(01/26/2025)11:46:12:: DB Length: 37091
+(01/26/2025)11:46:14:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.458800471537769, 'Cross-validation Std': 0.12851093456393498}
+(01/26/2025)11:46:15:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.296898090009504, 'Cross-validation Std': 0.028235542189285288}
+(01/26/2025)11:46:18:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44796089902050806, 'Cross-validation Std': 0.006258391046156978}
+(01/26/2025)11:46:20:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44353846405165986, 'Cross-validation Std': 0.0021159485765070464}
+(01/26/2025)11:46:47:: Cache Added to Database.(Cache Len: 101, DB Len:38589)
+(01/26/2025)11:47:43:: Cache Added to Database.(Cache Len: 107, DB Len:38685)
+(01/26/2025)11:48:17:: Cache Added to Database.(Cache Len: 106, DB Len:38791)
+(01/26/2025)11:48:50:: Cache Added to Database.(Cache Len: 105, DB Len:38894)
+(01/26/2025)11:51:16:: Cache Added to Database.(Cache Len: 100, DB Len:38997)
+(01/26/2025)11:51:16:: Training Models
+(01/26/2025)11:51:17:: DB Length: 37596
+(01/26/2025)11:51:19:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.536044495367886, 'Cross-validation Std': 0.12159222802519734}
+(01/26/2025)11:51:21:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.354580304030345, 'Cross-validation Std': 0.02763523784756019}
+(01/26/2025)11:51:23:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4494066783289137, 'Cross-validation Std': 0.007191086844293415}
+(01/26/2025)11:51:25:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4424630673637302, 'Cross-validation Std': 0.003809484693120072}
+(01/26/2025)11:51:47:: Cache Added to Database.(Cache Len: 100, DB Len:39094)
+(01/26/2025)11:52:18:: Cache Added to Database.(Cache Len: 103, DB Len:39193)
+(01/26/2025)11:52:52:: Cache Added to Database.(Cache Len: 103, DB Len:39293)
+(01/26/2025)11:53:26:: Cache Added to Database.(Cache Len: 103, DB Len:39392)
+(01/26/2025)11:53:57:: Cache Added to Database.(Cache Len: 107, DB Len:39492)
+(01/26/2025)11:53:57:: Training Models
+(01/26/2025)11:53:59:: DB Length: 38101
+(01/26/2025)11:54:01:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.572650490437001, 'Cross-validation Std': 0.12668978483924062}
+(01/26/2025)11:54:02:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.4029507856219725, 'Cross-validation Std': 0.016725788824411104}
+(01/26/2025)11:54:04:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4510182124188133, 'Cross-validation Std': 0.00941970200555186}
+(01/26/2025)11:54:07:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4433638103831413, 'Cross-validation Std': 0.0035925171816731066}
+(01/26/2025)11:54:30:: Cache Added to Database.(Cache Len: 102, DB Len:39599)
+(01/26/2025)11:55:12:: Cache Added to Database.(Cache Len: 104, DB Len:39701)
+(01/26/2025)11:55:46:: Cache Added to Database.(Cache Len: 101, DB Len:39804)
+(01/26/2025)11:56:15:: Cache Added to Database.(Cache Len: 103, DB Len:39902)
+(01/26/2025)11:56:47:: No Anomaly Detected: 0.4149829464848941 difference in scores
+(01/26/2025)11:56:47:: Cache Added to Database.(Cache Len: 107, DB Len:40003)
+(01/26/2025)11:56:47:: ANOMALY DETECTED: 0.6685799821635703 difference in scores
+(01/26/2025)11:56:52:: Email sent to kshtiz123@gmail.com
+(01/26/2025)12:00:09:: Program Started
+(01/26/2025)12:07:44:: Program Started
+(01/26/2025)12:12:46:: Program Started
+(01/26/2025)12:18:17:: Program Started
+(01/26/2025)12:18:37:: Program Started
+(01/26/2025)12:22:04:: Program Started
+(01/26/2025)12:22:06:: Training Models
+(01/26/2025)12:22:07:: DB Length: 38505
+(01/26/2025)12:22:09:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)12:22:11:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)12:22:13:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)12:22:15:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)12:22:37:: ANOMALY DETECTED: 0.41201776019852465 difference in scores
+(01/26/2025)12:22:42:: Email sent to kshtiz123@gmail.com
+(01/26/2025)12:23:50:: ANOMALY DETECTED: 0.4069041306378661 difference in scores
+(01/26/2025)12:23:54:: Email sent to kshtiz123@gmail.com
+(01/26/2025)12:24:50:: ANOMALY DETECTED: 0.4226112919689055 difference in scores
+(01/26/2025)12:24:56:: Email sent to kshtiz123@gmail.com
+(01/26/2025)12:45:15:: Program Started
+(01/26/2025)12:45:19:: Training Models
+(01/26/2025)12:45:22:: DB Length: 38505
+(01/26/2025)12:45:25:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)12:45:26:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)12:45:29:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)12:45:31:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)12:45:45:: No Anomaly Detected: 0.41346872163151555 difference in scores
+(01/26/2025)12:45:45:: Cache Added to Database.(Cache Len: 100, DB Len:40003)
+(01/26/2025)12:45:45:: ANOMALY DETECTED: 0.6713578102041335 difference in scores
+(01/26/2025)12:45:51:: Email sent to kshtiz123@gmail.com
+(01/26/2025)12:46:39:: No Anomaly Detected: 0.4115725396269737 difference in scores
+(01/26/2025)12:46:39:: Cache Added to Database.(Cache Len: 102, DB Len:40003)
+(01/26/2025)12:46:39:: ANOMALY DETECTED: 0.676149740939558 difference in scores
+(01/26/2025)12:46:43:: Email sent to kshtiz123@gmail.com
+(01/26/2025)12:47:09:: No Anomaly Detected: 0.40884585802905055 difference in scores
+(01/26/2025)12:47:09:: Cache Added to Database.(Cache Len: 100, DB Len:40003)
+(01/26/2025)12:47:09:: ANOMALY DETECTED: 0.6792161317330809 difference in scores
+(01/26/2025)12:47:16:: Email sent to kshtiz123@gmail.com
+(01/26/2025)12:50:28:: No Anomaly Detected: 0.3968284905841769 difference in scores
+(01/26/2025)12:50:28:: Cache Added to Database.(Cache Len: 105, DB Len:40003)
+(01/26/2025)12:50:28:: ANOMALY DETECTED: 0.6521605723635453 difference in scores
+(01/26/2025)12:50:32:: Email sent to kshtiz123@gmail.com
+(01/26/2025)12:52:42:: ANOMALY DETECTED: 0.4250961606659827 difference in scores
+(01/26/2025)12:52:47:: Email sent to kshtiz123@gmail.com
+(01/26/2025)12:53:27:: No Anomaly Detected: 0.4108083445088808 difference in scores
+(01/26/2025)12:53:27:: Cache Added to Database.(Cache Len: 104, DB Len:40003)
+(01/26/2025)12:53:27:: ANOMALY DETECTED: 0.6686514986325192 difference in scores
+(01/26/2025)12:53:31:: Email sent to kshtiz123@gmail.com
+(01/26/2025)13:29:39:: Program Started
+(01/26/2025)13:29:43:: Training Models
+(01/26/2025)13:29:45:: DB Length: 38505
+(01/26/2025)13:29:47:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)13:29:49:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)13:29:51:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)13:29:53:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)13:30:14:: ANOMALY DETECTED: 1.1475851949681615 difference in scores
+(01/26/2025)13:30:26:: Email sent to kshtiz123@gmail.com
+(01/26/2025)13:31:40:: ANOMALY DETECTED: 1.0810197216170723 difference in scores
+(01/26/2025)13:31:46:: Email sent to kshtiz123@gmail.com
+(01/26/2025)13:32:34:: Program Started
+(01/26/2025)13:32:38:: Training Models
+(01/26/2025)13:32:40:: DB Length: 38505
+(01/26/2025)13:32:43:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)13:32:45:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)13:32:47:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)13:32:49:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)13:33:05:: ANOMALY DETECTED: 1.1484413306346593 difference in scores
+(01/26/2025)13:33:11:: Email sent to kshtiz123@gmail.com
+(01/26/2025)13:33:38:: ANOMALY DETECTED: 1.1451430389295028 difference in scores
+(01/26/2025)13:33:42:: Email sent to kshtiz123@gmail.com
+(01/26/2025)13:36:13:: Program Started
+(01/26/2025)13:36:17:: Training Models
+(01/26/2025)13:36:19:: DB Length: 38505
+(01/26/2025)13:36:21:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)13:36:23:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)13:36:25:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)13:36:27:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)13:37:12:: ANOMALY DETECTED: 1.081903831618884 difference in scores
+(01/26/2025)13:37:19:: Email sent to kshtiz123@gmail.com
+(01/26/2025)13:38:15:: Program Started
+(01/26/2025)13:38:19:: Training Models
+(01/26/2025)13:38:21:: DB Length: 38505
+(01/26/2025)13:38:24:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)13:38:26:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)13:38:28:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)13:38:30:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)13:38:45:: ANOMALY DETECTED: 1.1430625926178857 difference in scores
+(01/26/2025)13:38:51:: Email sent to kshtiz123@gmail.com
+(01/26/2025)13:39:47:: ANOMALY DETECTED: 1.1330395707226473 difference in scores
+(01/26/2025)13:39:53:: Email sent to kshtiz123@gmail.com
+(01/26/2025)13:41:39:: ANOMALY DETECTED: 1.1530466652355895 difference in scores
+(01/26/2025)13:41:47:: Email sent to kshtiz123@gmail.com
+(01/26/2025)14:56:51:: Program Started
+(01/26/2025)14:56:53:: Training Models
+(01/26/2025)14:56:55:: DB Length: 38505
+(01/26/2025)14:56:57:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)14:56:59:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)14:57:01:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)14:57:04:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)14:57:32:: ANOMALY DETECTED: 1.1409630436692417 difference in scores
+(01/26/2025)14:57:38:: Email sent to kshtiz123@gmail.com
+(01/26/2025)14:58:16:: ANOMALY DETECTED: 1.1571908346989273 difference in scores
+(01/26/2025)14:58:24:: Email sent to kshtiz123@gmail.com
+(01/26/2025)15:00:44:: ANOMALY DETECTED: 1.1440130427667288 difference in scores
+(01/26/2025)15:00:51:: Email sent to kshtiz123@gmail.com
+(01/26/2025)15:01:49:: ANOMALY DETECTED: 1.137615298286409 difference in scores
+(01/26/2025)15:01:54:: Email sent to kshtiz123@gmail.com
+(01/26/2025)15:02:12:: ANOMALY DETECTED: 1.137703948635615 difference in scores
+(01/26/2025)15:02:20:: Email sent to kshtiz123@gmail.com
+(01/26/2025)15:02:36:: ANOMALY DETECTED: 1.1420934433202976 difference in scores
+(01/26/2025)15:02:42:: Email sent to kshtiz123@gmail.com
+(01/26/2025)15:03:20:: ANOMALY DETECTED: 1.139814336150058 difference in scores
+(01/26/2025)15:03:25:: Email sent to kshtiz123@gmail.com
+(01/26/2025)15:03:43:: ANOMALY DETECTED: 1.141759731521074 difference in scores
+(01/26/2025)15:03:48:: Email sent to kshtiz123@gmail.com
+(01/26/2025)15:04:07:: ANOMALY DETECTED: 1.1374933534772123 difference in scores
+(01/26/2025)15:04:14:: Email sent to kshtiz123@gmail.com
+(01/26/2025)18:06:20:: Program Started
+(01/26/2025)18:06:24:: Training Models
+(01/26/2025)18:06:25:: DB Length: 38505
+(01/26/2025)18:06:27:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)18:06:29:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)18:06:31:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)18:06:33:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)18:14:55:: Program Started
+(01/26/2025)18:14:59:: Training Models
+(01/26/2025)18:15:02:: DB Length: 38505
+(01/26/2025)18:15:05:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)18:15:07:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)18:15:09:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)18:15:11:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)18:15:20:: No Anomaly Detected: 1.148474218586427 difference in scores
+(01/26/2025)18:15:20:: Cache Added to Database.(Cache Len: 107, DB Len:40003)
+(01/26/2025)18:15:21:: ANOMALY DETECTED: 1.3109953273103823 difference in scores
+(01/26/2025)18:15:25:: Email sent to kshtiz123@gmail.com
+(01/26/2025)18:16:24:: Program Started
+(01/26/2025)18:16:28:: Training Models
+(01/26/2025)18:16:31:: DB Length: 38505
+(01/26/2025)18:16:34:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)18:16:36:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)18:16:38:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)18:16:40:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)18:16:50:: No Anomaly Detected: 1.141240014908373 difference in scores
+(01/26/2025)18:16:50:: Cache Added to Database.(Cache Len: 105, DB Len:40003)
+(01/26/2025)18:16:50:: ANOMALY DETECTED: 1.3027172075598221 difference in scores
+(01/26/2025)18:16:55:: Email sent to kshtiz123@gmail.com
+(01/26/2025)18:16:59:: No Anomaly Detected: 1.1389238359100462 difference in scores
+(01/26/2025)18:16:59:: Cache Added to Database.(Cache Len: 106, DB Len:40003)
+(01/26/2025)18:16:59:: ANOMALY DETECTED: 1.303853567096079 difference in scores
+(01/26/2025)18:21:12:: Program Started
+(01/26/2025)18:21:16:: Training Models
+(01/26/2025)18:21:18:: DB Length: 38505
+(01/26/2025)18:21:21:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)18:21:23:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)18:21:25:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)18:21:27:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)18:21:29:: No Anomaly Detected: 1.146784045441985 difference in scores
+(01/26/2025)18:21:29:: Cache Added to Database.(Cache Len: 102, DB Len:40003)
+(01/26/2025)18:21:30:: ANOMALY DETECTED: 1.3094723352452422 difference in scores
+(01/26/2025)18:21:34:: Email sent to kshtiz123@gmail.com
+(01/26/2025)18:25:13:: Program Started
+(01/26/2025)18:25:17:: Training Models
+(01/26/2025)18:25:20:: DB Length: 38505
+(01/26/2025)18:25:22:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)18:25:24:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)18:25:26:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)18:25:28:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)19:16:29:: No Anomaly Detected: 0.39857658200129154 difference in scores
+(01/26/2025)19:16:29:: Cache Added to Database.(Cache Len: 105, DB Len:40003)
+(01/26/2025)19:21:42:: No Anomaly Detected: 0.42479630834143584 difference in scores
+(01/26/2025)19:21:42:: Cache Added to Database.(Cache Len: 100, DB Len:40003)
+(01/26/2025)19:29:22:: Program Started
+(01/26/2025)19:29:26:: Training Models
+(01/26/2025)19:29:28:: DB Length: 38505
+(01/26/2025)19:29:30:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)19:29:32:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)19:29:34:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)19:29:37:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)19:30:35:: No Anomaly Detected: 0.414242895055591 difference in scores
+(01/26/2025)19:30:35:: Cache Added to Database.(Cache Len: 100, DB Len:40003)
+(01/26/2025)19:31:09:: No Anomaly Detected: 0.5293208157116082 difference in scores
+(01/26/2025)19:31:09:: Cache Added to Database.(Cache Len: 103, DB Len:40003)
+(01/26/2025)19:31:47:: No Anomaly Detected: 0.5415252958662912 difference in scores
+(01/26/2025)19:31:47:: Cache Added to Database.(Cache Len: 100, DB Len:40003)
+(01/26/2025)19:33:51:: Program Started
+(01/26/2025)19:34:15:: Program Started
+(01/26/2025)19:34:19:: Training Models
+(01/26/2025)19:34:22:: DB Length: 38505
+(01/26/2025)19:34:25:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)19:34:27:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)19:34:29:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)19:34:31:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)19:38:43:: No Anomaly Detected: 0.414091420119919 difference in scores
+(01/26/2025)19:38:43:: Cache Added to Database.(Cache Len: 104, DB Len:40003)
+(01/26/2025)19:43:30:: No Anomaly Detected: 0.44347891564356373 difference in scores
+(01/26/2025)19:43:30:: Cache Added to Database.(Cache Len: 105, DB Len:40003)
+(01/26/2025)19:54:08:: No Anomaly Detected: 0.4381064464833912 difference in scores
+(01/26/2025)19:54:08:: Cache Added to Database.(Cache Len: 109, DB Len:40003)
+(01/26/2025)20:02:05:: No Anomaly Detected: 0.44215056895733895 difference in scores
+(01/26/2025)20:02:05:: Cache Added to Database.(Cache Len: 108, DB Len:40003)
+(01/26/2025)20:07:03:: No Anomaly Detected: 0.44121042799230087 difference in scores
+(01/26/2025)20:07:03:: Cache Added to Database.(Cache Len: 104, DB Len:40003)
+(01/26/2025)20:16:45:: No Anomaly Detected: 0.43776530554611276 difference in scores
+(01/26/2025)20:16:45:: Cache Added to Database.(Cache Len: 100, DB Len:40003)
+(01/26/2025)21:39:29:: Program Started
+(01/26/2025)21:39:31:: Training Models
+(01/26/2025)21:39:32:: DB Length: 38505
+(01/26/2025)21:39:34:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)21:39:36:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)21:39:38:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)21:39:41:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)21:44:40:: Program Started
+(01/26/2025)21:44:42:: Training Models
+(01/26/2025)21:44:43:: DB Length: 38505
+(01/26/2025)21:44:45:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)21:44:47:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)21:44:49:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)21:44:51:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/26/2025)22:33:32:: Program Started
+(01/26/2025)22:33:34:: Training Models
+(01/26/2025)22:33:36:: DB Length: 38505
+(01/26/2025)22:33:38:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/26/2025)22:33:39:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/26/2025)22:33:41:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/26/2025)22:33:44:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/27/2025)09:21:55:: Program Started
+(01/27/2025)09:21:59:: Training Models
+(01/27/2025)09:22:01:: DB Length: 38505
+(01/27/2025)09:22:03:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/27/2025)09:22:04:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/27/2025)09:22:07:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/27/2025)09:22:09:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/27/2025)12:59:31:: Program Started
+(01/27/2025)12:59:35:: Training Models
+(01/27/2025)12:59:38:: DB Length: 38505
+(01/27/2025)12:59:41:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/27/2025)12:59:43:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/27/2025)12:59:45:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/27/2025)12:59:47:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/27/2025)13:00:28:: ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45588962545887163, 'Cross-validation Std': 0.01757246535538694}
+(01/27/2025)13:06:04:: Program Started
+(01/27/2025)13:06:08:: Training Models
+(01/27/2025)13:06:10:: DB Length: 38505
+(01/27/2025)13:06:13:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/27/2025)13:06:15:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/27/2025)13:06:17:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/27/2025)13:06:20:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/27/2025)13:06:49:: ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45588962545887163, 'Cross-validation Std': 0.01757246535538694}
+(01/27/2025)13:07:45:: Program Started
+(01/27/2025)13:07:49:: Training Models
+(01/27/2025)13:07:52:: DB Length: 38505
+(01/27/2025)13:07:54:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/27/2025)13:07:56:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/27/2025)13:07:58:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/27/2025)13:08:01:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/27/2025)13:08:33:: ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45588962545887163, 'Cross-validation Std': 0.01757246535538694}
+(01/27/2025)13:09:20:: Program Started
+(01/27/2025)13:09:24:: Training Models
+(01/27/2025)13:09:26:: DB Length: 38505
+(01/27/2025)13:09:29:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/27/2025)13:09:30:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/27/2025)13:09:32:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/27/2025)13:09:35:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/27/2025)13:10:53:: ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45588962545887163, 'Cross-validation Std': 0.01757246535538694}
+(01/27/2025)13:13:01:: Program Started
+(01/27/2025)13:13:05:: Training Models
+(01/27/2025)13:13:07:: DB Length: 38505
+(01/27/2025)13:13:10:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/27/2025)13:13:12:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/27/2025)13:13:14:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/27/2025)13:13:17:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/27/2025)13:13:48:: Ensemble ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45588962545887163, 'Cross-validation Std': 0.01757246535538694}
+(01/27/2025)19:57:52:: Program Started
+(01/27/2025)19:57:54:: Training Models
+(01/27/2025)19:57:56:: DB Length: 38505
+(01/27/2025)19:57:58:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/27/2025)19:57:59:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/27/2025)19:58:02:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/27/2025)19:58:04:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/27/2025)19:58:45:: Ensemble ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45588962545887163, 'Cross-validation Std': 0.01757246535538694}
+(01/27/2025)19:59:18:: Program Started
+(01/27/2025)19:59:20:: Training Models
+(01/27/2025)19:59:22:: DB Length: 38505
+(01/27/2025)19:59:24:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/27/2025)19:59:26:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/27/2025)19:59:28:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/27/2025)19:59:30:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/27/2025)20:00:05:: Ensemble ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45588962545887163, 'Cross-validation Std': 0.01757246535538694}
+(01/27/2025)20:00:55:: Program Started
+(01/27/2025)20:00:57:: Training Models
+(01/27/2025)20:00:58:: DB Length: 38505
+(01/27/2025)20:01:00:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/27/2025)20:01:02:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/27/2025)20:01:04:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/27/2025)20:01:06:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/27/2025)20:02:09:: Ensemble ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45588962545887163, 'Cross-validation Std': 0.01757246535538694}
+(01/27/2025)20:10:00:: Ensemble ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.45588962545887163, 'Cross-validation Std': 0.01757246535538694}
+(01/28/2025)09:59:02:: Program Started
+(01/28/2025)09:59:04:: Training Models
+(01/28/2025)09:59:05:: DB Length: 38505
+(01/28/2025)09:59:07:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/28/2025)09:59:09:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/28/2025)09:59:11:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/28/2025)09:59:14:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/28/2025)16:47:29:: Program Started
+(01/28/2025)16:47:33:: Training Models
+(01/28/2025)16:47:35:: DB Length: 38505
+(01/28/2025)16:47:38:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/28/2025)16:47:40:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/28/2025)16:47:43:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/28/2025)16:47:45:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/28/2025)16:56:49:: Program Started
+(01/28/2025)16:56:53:: Training Models
+(01/28/2025)16:56:56:: DB Length: 38505
+(01/28/2025)16:56:59:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.612292414239769, 'Cross-validation Std': 0.12266268685795706}
+(01/28/2025)16:57:01:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -4.451610528674717, 'Cross-validation Std': 0.01857264833397476}
+(01/28/2025)16:57:03:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.44958314755890705, 'Cross-validation Std': 0.007505754166009763}
+(01/28/2025)16:57:06:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4442067197136807, 'Cross-validation Std': 0.00447385617429537}
+(01/28/2025)18:00:21:: Program Started
+(01/28/2025)18:00:23:: DB Length: 38505
+(01/28/2025)18:02:38:: Program Started
+(01/28/2025)18:02:40:: DB Length: 38505
+(01/28/2025)18:08:47:: Program Started
+(01/28/2025)18:08:50:: DB Length: 38505
+(01/28/2025)18:27:52:: Program Started
+(01/28/2025)18:27:55:: DB Length: 38505
+(01/28/2025)18:41:03:: Program Started
+(01/28/2025)18:41:04:: DB Length: 38505
+(01/28/2025)18:50:01:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.3615311637098142, 'Cross-validation Std': 0.06651000149771735, 'Best Parameters': {'gamma': 0.001}}
+(01/28/2025)19:04:39:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.6753170872533216, 'Cross-validation Std': 0.1089154153268028, 'Best Parameters': {'gamma': 0.001}}
+(01/28/2025)19:05:54:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4697428427894296, 'Cross-validation Std': 0.008580841290036991, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'max_features': 0.5}}
+(01/28/2025)19:07:11:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.46793095222491327, 'Cross-validation Std': 0.004828572847015941, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'max_features': 0.5}}
+(01/28/2025)19:17:45:: Program Started
+(01/28/2025)19:17:47:: DB Length: 38505
+(01/28/2025)19:26:46:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.3615311637098142, 'Cross-validation Std': 0.06651000149771735, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/28/2025)19:41:32:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.6753170872533216, 'Cross-validation Std': 0.1089154153268028, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/28/2025)19:42:15:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4697428427894296, 'Cross-validation Std': 0.008580841290036991, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(01/28/2025)19:42:59:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.46793095222491327, 'Cross-validation Std': 0.004828572847015941, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(01/29/2025)10:54:39:: Program Started
+(01/29/2025)10:54:45:: Training Models
+(01/29/2025)10:54:47:: DB Length: 38505
+(01/29/2025)11:07:57:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.3615311637098142, 'Cross-validation Std': 0.06651000149771735, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/29/2025)11:32:31:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.6753170872533216, 'Cross-validation Std': 0.1089154153268028, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/29/2025)11:33:39:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4697428427894296, 'Cross-validation Std': 0.008580841290036991, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(01/29/2025)11:34:51:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.46793095222491327, 'Cross-validation Std': 0.004828572847015941, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(01/29/2025)13:39:07:: Program Started
+(01/29/2025)13:39:11:: Training Models
+(01/29/2025)13:39:13:: DB Length: 38505
+(01/29/2025)13:44:11:: No Anomaly Detected: 0.4637450541264408 difference in scores
+(01/29/2025)13:44:11:: Cache Added to Database.(Cache Len: 104, DB Len:40003)
+(01/29/2025)13:46:07:: Program Started
+(01/29/2025)13:46:11:: Training Models
+(01/29/2025)13:46:12:: DB Length: 38505
+(01/29/2025)13:47:54:: Program Started
+(01/29/2025)13:47:56:: Training Models
+(01/29/2025)13:48:47:: Program Started
+(01/29/2025)13:48:49:: Training Models
+(01/29/2025)13:48:50:: DB Length: 38505
+(01/29/2025)13:58:13:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.3615311637098142, 'Cross-validation Std': 0.06651000149771735, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/29/2025)14:13:08:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.6753170872533216, 'Cross-validation Std': 0.1089154153268028, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/29/2025)14:13:53:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.4697428427894296, 'Cross-validation Std': 0.008580841290036991, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(01/29/2025)14:14:39:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.46793095222491327, 'Cross-validation Std': 0.004828572847015941, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(01/29/2025)14:20:10:: No Anomaly Detected: 0.5229400826069603 difference in scores
+(01/29/2025)14:20:10:: Cache Added to Database.(Cache Len: 102, DB Len:40003)
+(01/29/2025)14:20:14:: No Anomaly Detected: 0.4606008263274127 difference in scores
+(01/29/2025)14:20:14:: Cache Added to Database.(Cache Len: 105, DB Len:40003)
+
+(01/29/2025)15:31:02:: Program Started
+(01/29/2025)15:31:04:: Training Models
+(01/29/2025)15:31:29:: Program Started
+(01/29/2025)15:31:31:: Training Models
+(01/29/2025)15:32:10:: No Anomaly Detected: 0.5329407697575613 difference in scores
+(01/29/2025)15:32:10:: Cache Added to Database.(Cache Len: 100, DB Len:40003)
+(01/29/2025)15:33:44:: No Anomaly Detected: 0.4805600438560543 difference in scores
+(01/29/2025)15:33:44:: Cache Added to Database.(Cache Len: 106, DB Len:40003)
+(01/29/2025)17:23:32:: No Anomaly Detected: 0.5629153653552618 difference in scores
+(01/29/2025)17:23:32:: Cache Added to Database.(Cache Len: 100, DB Len:40003)
+(01/30/2025)10:41:04:: No Anomaly Detected: 0.5903651804854376 difference in scores
+(01/30/2025)10:41:04:: Cache Added to Database.(Cache Len: 101, DB Len:40003)
+(01/30/2025)12:20:09:: Program Started
+(01/30/2025)12:20:15:: Training Models
+(01/30/2025)18:51:54:: Program Started
+(01/30/2025)18:51:56:: DB Length: 33100
+(01/30/2025)19:02:51:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.475097855607277, 'Cross-validation Std': 0.04779676450517472, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/30/2025)19:15:41:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5681899181602916, 'Cross-validation Std': 0.11188291817859337, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/30/2025)19:16:25:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49637212912643786, 'Cross-validation Std': 0.0041123641234508766, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.75}}
+(01/30/2025)19:17:10:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49782966987646515, 'Cross-validation Std': 0.0039484549718433746, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(01/30/2025)19:58:05:: Program Started
+(01/30/2025)19:58:09:: DB Length: 33100
+(01/30/2025)20:09:04:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.475097855607277, 'Cross-validation Std': 0.04779676450517472, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/30/2025)20:21:40:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5681899181602916, 'Cross-validation Std': 0.11188291817859337, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/30/2025)20:22:21:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49637212912643786, 'Cross-validation Std': 0.0041123641234508766, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.75}}
+(01/30/2025)20:23:03:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49782966987646515, 'Cross-validation Std': 0.0039484549718433746, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(01/30/2025)23:37:56:: Training Models
+(01/30/2025)23:37:57:: DB Length: 33100
+(01/30/2025)23:48:49:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.475097855607277, 'Cross-validation Std': 0.04779676450517472, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/31/2025)00:01:47:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5681899181602916, 'Cross-validation Std': 0.11188291817859337, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(01/31/2025)00:02:30:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49637212912643786, 'Cross-validation Std': 0.0041123641234508766, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.75}}
+(01/31/2025)00:03:13:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49782966987646515, 'Cross-validation Std': 0.0039484549718433746, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(01/31/2025)12:35:07:: Program Started
+(01/31/2025)15:13:49:: Cache Added to Database.(Cache Len: 101, DB Len:0)
+(01/31/2025)15:13:54:: Cache Added to Database.(Cache Len: 108, DB Len:97)
+(01/31/2025)15:13:59:: Cache Added to Database.(Cache Len: 107, DB Len:205)
+(01/31/2025)15:14:06:: Cache Added to Database.(Cache Len: 107, DB Len:314)
+(01/31/2025)15:14:11:: Cache Added to Database.(Cache Len: 102, DB Len:421)
+(01/31/2025)15:16:12:: Cache Added to Database.(Cache Len: 200, DB Len:0)
+(01/31/2025)15:16:16:: Cache Added to Database.(Cache Len: 107, DB Len:195)
+(01/31/2025)15:16:21:: Cache Added to Database.(Cache Len: 107, DB Len:304)
+(02/04/2025)20:26:30:: Program Started
+(02/04/2025)20:29:15:: Cache Added to Database.(Cache Len: 100, DB Len:0)
+(02/04/2025)20:41:57:: Program Started
+(02/04/2025)20:45:08:: Cache Added to Database.(Cache Len: 100, DB Len:100)
+(02/05/2025)09:42:23:: Program Started
+(02/05/2025)09:42:28:: DB Length: 33100
+(02/05/2025)10:03:11:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.475097855607277, 'Cross-validation Std': 0.04779676450517472, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/05/2025)10:27:57:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5681899181602916, 'Cross-validation Std': 0.11188291817859337, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/05/2025)10:29:05:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49637212912643786, 'Cross-validation Std': 0.0041123641234508766, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.75}}
+(02/05/2025)10:30:25:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49782966987646515, 'Cross-validation Std': 0.0039484549718433746, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(02/05/2025)13:14:27:: Program Started
+(02/05/2025)13:14:30:: DB Length: 33100
+(02/05/2025)20:51:18:: Program Started
+(02/05/2025)20:51:23:: DB Length: 33100
+(02/05/2025)21:09:29:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.475097855607277, 'Cross-validation Std': 0.04779676450517472, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/05/2025)21:31:15:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5681899181602916, 'Cross-validation Std': 0.11188291817859337, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/05/2025)21:32:28:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49637212912643786, 'Cross-validation Std': 0.0041123641234508766, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.75}}
+(02/05/2025)21:33:40:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49782966987646515, 'Cross-validation Std': 0.0039484549718433746, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(02/06/2025)10:17:38:: Program Started
+(02/06/2025)10:17:43:: DB Length: 33100
+(02/06/2025)10:40:21:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.475097855607277, 'Cross-validation Std': 0.04779676450517472, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/06/2025)11:06:33:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5681899181602916, 'Cross-validation Std': 0.11188291817859337, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/06/2025)11:07:55:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49637212912643786, 'Cross-validation Std': 0.0041123641234508766, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.75}}
+(02/06/2025)11:09:09:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49782966987646515, 'Cross-validation Std': 0.0039484549718433746, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(02/06/2025)19:13:15:: Program Started
+(02/06/2025)19:13:20:: DB Length: 33100
+(02/06/2025)19:31:02:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.475097855607277, 'Cross-validation Std': 0.04779676450517472, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/06/2025)19:50:15:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5681899181602916, 'Cross-validation Std': 0.11188291817859337, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/06/2025)19:51:15:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49637212912643786, 'Cross-validation Std': 0.0041123641234508766, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.75}}
+(02/06/2025)19:52:15:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49782966987646515, 'Cross-validation Std': 0.0039484549718433746, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(02/07/2025)09:15:26:: Program Started
+(02/07/2025)09:15:31:: DB Length: 33100
+(02/07/2025)09:38:56:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.475097855607277, 'Cross-validation Std': 0.04779676450517472, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/07/2025)10:07:57:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5681899181602916, 'Cross-validation Std': 0.11188291817859337, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/07/2025)10:09:32:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49637212912643786, 'Cross-validation Std': 0.0041123641234508766, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.75}}
+(02/07/2025)10:11:11:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49782966987646515, 'Cross-validation Std': 0.0039484549718433746, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(02/09/2025)11:24:47:: Program Started
+(02/09/2025)11:24:52:: DB Length: 33100
+(02/09/2025)11:49:18:: Dwell SVMmodel Model Scores:
+ {'Cross-validation Mean': -1.475097855607277, 'Cross-validation Std': 0.04779676450517472, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/09/2025)12:18:54:: Flight SVMmodel Model Scores:
+ {'Cross-validation Mean': -3.5681899181602916, 'Cross-validation Std': 0.11188291817859337, 'Best Parameters': {'nu': 0.1, 'gamma': 0.001}}
+(02/09/2025)12:20:03:: Dwell ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49637212912643786, 'Cross-validation Std': 0.0041123641234508766, 'Best Parameters': {'n_estimators': 100, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.75}}
+(02/09/2025)12:21:42:: Flight ISOmodel Model Scores:
+ {'Cross-validation Mean': 0.49782966987646515, 'Cross-validation Std': 0.0039484549718433746, 'Best Parameters': {'n_estimators': 200, 'max_samples': 100, 'contamination': 0.001, 'max_features': 0.5}}
+(02/20/2025)13:12:03:: Program Started
+(02/20/2025)13:12:35:: Cache Added to Database.(Cache Len: 100, DB Len:201)
+(02/20/2025)13:13:09:: Cache Added to Database.(Cache Len: 100, DB Len:304)
+(02/20/2025)13:13:42:: Cache Added to Database.(Cache Len: 100, DB Len:408)
+(02/20/2025)13:14:56:: Program Started
+(02/20/2025)13:14:59:: Training Models
+(02/20/2025)19:09:14:: Program Started
+(02/20/2025)19:09:18:: Training Models
+(03/01/2025)22:34:21:: Program Started
+(03/01/2025)22:34:24:: Training Models
+(03/01/2025)22:36:11:: Program Started
+(03/01/2025)22:36:14:: Training Models
+(03/01/2025)22:38:03:: Program Started
+(03/01/2025)22:38:06:: Training Models
+(03/01/2025)22:39:26:: Program Started
+(03/01/2025)22:39:29:: Training Models
