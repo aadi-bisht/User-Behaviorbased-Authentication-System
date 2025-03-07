@@ -58,7 +58,7 @@ class TestLogger(unittest.TestCase):
 
     def test_get_time_format(self):
         time_str = get_time()
-        self.assertRegex(time_str, r"$$\d{2}/\d{2}/\d{4}$$\d{2}:\d{2}:\d{2}:: ")
+        self.assertRegex(time_str, r"\(\d{2}/\d{2}/\d{4}\)\d{2}:\d{2}:\d{2}:: ")
 
     @patch("os.path.exists", return_value=False)
     @patch("builtins.open", new_callable=mock_open)

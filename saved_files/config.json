@@ -1,26 +1,5 @@
 {
     "email": "kshtiz123@gmail.com",
-    "dwell_dwell_times_max": 1.618161201477051,
-    "dwell_dwell_times_min": 0.05456924438476562,
-    "dwell_current_key_max": 122.0,
-    "dwell_current_key_min": 82.0,
-    "dwell_last_key_max": 126.0,
-    "dwell_last_key_min": 82.0,
-    "flight_flight_times_max": 6.809957027435303,
-    "flight_flight_times_min": 0.005655288696289062,
-    "flight_current_key_max": 122.0,
-    "flight_current_key_min": 82.0,
-    "flight_last_key_max": 122.0,
-    "flight_last_key_min": 82.0,
-    "DwellSVMmodel": 0.013969446270516587,
-    "FlightSVMmodel": 0.0024671001245080183,
-    "DwellISOmodel": 0.48250250497218655,
-    "FlightISOmodel": 0.5010609486327887,
-    "threshold": 0.0002611,
-    "dwell_autoencoder_threshold": 0.0007503361561358565,
-    "flight_autoencoder_threshold": 0.002888175273015078,
-    "dwell_threshold": 0.0007503361561358565,
-    "flight_threshold": 0.002888175273015078,
-    "dwelltest_threshold": 0.003051311730509292,
-    "flighttest_threshold": 0.0045096989846715
+    "dwell_threshold": 0.005347666999482302,
+    "flight_threshold": 0.0024506932590118227
 }

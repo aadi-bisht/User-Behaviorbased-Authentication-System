@@ -1821,15 +1821,68 @@
 (02/20/2025)13:12:35:: Cache Added to Database.(Cache Len: 100, DB Len:201)
 (02/20/2025)13:13:09:: Cache Added to Database.(Cache Len: 100, DB Len:304)
 (02/20/2025)13:13:42:: Cache Added to Database.(Cache Len: 100, DB Len:408)
-(02/20/2025)13:14:56:: Program Started
-(02/20/2025)13:14:59:: Training Models
-(02/20/2025)19:09:14:: Program Started
-(02/20/2025)19:09:18:: Training Models
-(03/01/2025)22:34:21:: Program Started
-(03/01/2025)22:34:24:: Training Models
-(03/01/2025)22:36:11:: Program Started
-(03/01/2025)22:36:14:: Training Models
-(03/01/2025)22:38:03:: Program Started
-(03/01/2025)22:38:06:: Training Models
-(03/01/2025)22:39:26:: Program Started
 (03/01/2025)22:39:29:: Training Models
+(03/07/2025)13:36:04:: Program Started
+(03/07/2025)13:36:08:: Training Models
+(03/07/2025)17:36:16:: Program Started
+(03/07/2025)17:36:19:: Training Models
+(03/07/2025)17:40:53:: dwell Model Trained, best threshold: 0.0007503361561358565
+(03/07/2025)17:50:31:: flight Model Trained, best threshold: 0.002888175273015078
+(03/07/2025)17:54:53:: ANOMALY DETECTED: 2.5 difference in scores
+(03/07/2025)17:54:58:: Email sent to kshtiz123@gmail.com
+(03/07/2025)17:55:24:: ANOMALY DETECTED: 4.5 difference in scores
+(03/07/2025)17:55:29:: Email sent to kshtiz123@gmail.com
+(03/07/2025)18:02:58:: ANOMALY DETECTED: 17.5 difference in scores
+(03/07/2025)18:03:03:: Email sent to kshtiz123@gmail.com
+(03/07/2025)18:03:23:: ANOMALY DETECTED: 5.5 difference in scores
+(03/07/2025)18:03:29:: Email sent to kshtiz123@gmail.com
+(03/07/2025)18:03:49:: ANOMALY DETECTED: 9.0 difference in scores
+(03/07/2025)18:03:54:: Email sent to kshtiz123@gmail.com
+(03/07/2025)18:04:11:: ANOMALY DETECTED: 8.0 difference in scores
+(03/07/2025)18:04:16:: Email sent to kshtiz123@gmail.com
+(03/07/2025)20:06:19:: Program Started
+(03/07/2025)20:06:23:: Training Models
+(03/07/2025)20:30:30:: Program Started
+(03/07/2025)20:30:33:: Training Models
+(03/07/2025)20:53:06:: Program Started
+(03/07/2025)20:53:09:: Training Models
+(03/07/2025)20:57:43:: dwell Model Trained, best threshold: 0.0007503361561358565
+(03/07/2025)21:08:13:: flight Model Trained, best threshold: 0.002888175273015078
+(03/07/2025)21:46:20:: ANOMALY DETECTED: 9.5 difference in scores
+(03/07/2025)21:46:26:: Email sent to kshtiz123@gmail.com
+(03/07/2025)21:46:56:: ANOMALY DETECTED: 5.0 difference in scores
+(03/07/2025)21:47:02:: Email sent to kshtiz123@gmail.com
+(03/07/2025)21:47:26:: No Anomaly Detected: 2.5 difference in scores
+(03/07/2025)21:47:31:: Cache Added to Database.(Cache Len: 100, DB Len:40003)
+(03/07/2025)21:49:09:: No Anomaly Detected: 2.0 difference in scores
+(03/07/2025)21:49:15:: Cache Added to Database.(Cache Len: 100, DB Len:40112)
+(03/07/2025)21:49:45:: ANOMALY DETECTED: 3.0 difference in scores
+(03/07/2025)21:49:50:: Email sent to kshtiz123@gmail.com
+(03/07/2025)21:52:41:: Program Started
+(03/07/2025)21:53:38:: Program Started
+(03/07/2025)21:55:32:: Program Started
+(03/07/2025)21:56:14:: ANOMALY DETECTED: 3.0 difference in scores
+(03/07/2025)21:56:19:: Email sent to kshtiz123@gmail.com
+(03/07/2025)21:57:28:: Program Started
+(03/07/2025)22:07:41:: Program Started
+(03/07/2025)22:12:44:: Program Started
+(03/07/2025)22:13:21:: No Anomaly Detected: 2.0 difference in scores
+(03/07/2025)22:13:27:: Cache Added to Database.(Cache Len: 104, DB Len:40221)
+(03/07/2025)22:14:05:: No Anomaly Detected: 0.5 difference in scores
+(03/07/2025)22:14:11:: Cache Added to Database.(Cache Len: 100, DB Len:40351)
+(03/07/2025)22:21:39:: Program Started
+(03/07/2025)22:23:42:: ANOMALY DETECTED: 8.5 difference in scores
+(03/07/2025)22:23:47:: Email sent to kshtiz123@gmail.com
+(03/07/2025)22:24:11:: No Anomaly Detected: 4.5 difference in scores
+(03/07/2025)22:24:18:: Cache Added to Database.(Cache Len: 103, DB Len:40453)
+(03/07/2025)22:24:18:: Training Models
+(03/07/2025)22:24:49:: ANOMALY DETECTED: 9.0 difference in scores
+(03/07/2025)22:24:54:: Email sent to kshtiz123@gmail.com
+(03/07/2025)23:03:58:: Program Started
+(03/07/2025)23:04:01:: Training Models
+(03/07/2025)23:08:38:: dwell Model Trained, best threshold: 0.005347666999482302
+(03/07/2025)23:20:07:: flight Model Trained, best threshold: 0.0024506932590118227
+(03/08/2025)00:08:03:: ANOMALY DETECTED: 16.0 difference in scores
+(03/08/2025)00:08:08:: Email sent to kshtiz123@gmail.com
+(03/08/2025)00:08:47:: No Anomaly Detected: 3.5 difference in scores
+(03/08/2025)00:08:53:: Cache Added to Database.(Cache Len: 100, DB Len:40585)

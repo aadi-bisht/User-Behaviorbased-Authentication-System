@@ -109,16 +109,12 @@ class Keylogger:
         self.flight_dataframe.to_excel('./saved_files/flight_data.xlsx', index=False)
         self.dwell_dataframe.to_excel('./saved_files/dwell_data.xlsx', index=False)
         self.flush_cache()
-        # self.flight_dataframe.to_excel('./saved_files/unauthorized_flight_data_1.xlsx', index=False)
-        # self.dwell_dataframe.to_excel('./saved_files/unauthorized_dwell_data_1.xlsx', index=False)
 
 
     def load_dataframe(self) -> None:
         try:
             self.flight_dataframe = pandas.read_excel('./saved_files/flight_data.xlsx')
             self.dwell_dataframe = pandas.read_excel('./saved_files/dwell_data.xlsx')
-            # self.flight_dataframe = pandas.read_excel('./saved_files/unauthorized_flight_data_1.xlsx')
-            # self.dwell_dataframe = pandas.read_excel('./saved_files/unauthorized_dwell_data_1.xlsx')
 
         except FileNotFoundError:
             pass

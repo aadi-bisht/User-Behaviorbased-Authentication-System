@@ -48,7 +48,8 @@ def main():
 
     for module_name in required_packages:
         install_and_import(module_name)
-    # create_launcher()
+    create_launcher()
+    subprocess.Popen(["pythonw", f"{os.getcwd()}\\controller.py"], shell=True)
 
 
 if __name__ == "__main__":

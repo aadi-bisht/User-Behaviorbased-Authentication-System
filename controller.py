@@ -23,6 +23,7 @@ def read_json() -> dict:
     if diction['email'] is not None:
         return diction
 
+
 def generate_threshold(dscaler_path, dmodel_path, fscaler_path, fmodel_path):
     flight_dataframe = pd.read_excel('./saved_files/flight_data.xlsx').tail(100)
     dwell_dataframe = pd.read_excel('./saved_files/dwell_data.xlsx').tail(100)
@@ -69,35 +70,39 @@ def main():
     flight_model_path = os.path.join("auto_encoder_models", "flight.keras")
     dwell_scaler_path = os.path.join("saved_files", "dwell_scaler.pkl")
     flight_scaler_path = os.path.join("saved_files", "flight_scaler.pkl")
-    threshold = None
     while True:
         cache_len = keylog.get_cache_len()
         current_length = keylog.get_length()
-        if current_length >= 35000 and current_length % 500 <= 150:
-            if last_trained_length is None or current_length - last_trained_length >= 500:
+        if current_length >= 40000 and current_length % 2000 <= 150:
+            if last_trained_length is None or current_length - last_trained_length >= 2000:
                 logger.write_log("Training Models")
-                train_model("saved_files/dwell_data.xlsx", 25, 64, dwell_model_path)
-                train_model("saved_files/flight_data.xlsx", 30, 32, flight_model_path)
-                threshold = generate_threshold(dwell_scaler_path, dwell_model_path, flight_scaler_path, flight_model_path)/2
+                train_model("saved_files/dwell_data.xlsx", 25, 64, dwell_model_path, dwell_scaler_path, logger)
+                train_model("saved_files/flight_data.xlsx", 30, 32, flight_model_path, flight_scaler_path, logger)
                 last_trained_length = current_length
         if cache_len % 100 <= 10 and cache_len >= 100:
             if current_length < 40000:
                 keylog.save_dataframe()
                 logger.write_log(f"Cache Added to Database.(Cache Len: {cache_len}, DB Len:{current_length})")
             elif current_length >= 40000:
+                threshold = generate_threshold(dwell_scaler_path, dwell_model_path, flight_scaler_path,
+                                               flight_model_path) / 2
                 dwell_anomaly = test_model(pd.DataFrame(keylog.dwell_time, columns=['dwell_times',
                                                                                'current_key', 'last_key']), dwell_scaler_path, dwell_model_path)
                 flight_anomaly = test_model(pd.DataFrame(keylog.flight_time, columns=['flight_times',
                                                                                 'current_key', 'last_key']), flight_scaler_path, flight_model_path)
 
-                if threshold is not None and (dwell_anomaly + flight_anomaly) / 2 < threshold:
-                    logger.write_log(f'No Anomaly Detected: {(dwell_anomaly + flight_anomaly) / 2 - threshold} difference in scores')
+                if threshold is None:
+                    keylog.flush_cache()
+                    continue
+                if threshold is not None and abs((dwell_anomaly + flight_anomaly) / 2 - threshold) < 5:
+                    logger.write_log(f'No Anomaly Detected: {abs((dwell_anomaly + flight_anomaly) / 2 - threshold)} difference in scores')
                     keylog.save_dataframe()  # add to df
                     logger.write_log(f"Cache Added to Database.(Cache Len: {cache_len}, DB Len:{current_length})")
-                elif threshold is not None:
-                    logger.write_log(f"ANOMALY DETECTED: {(dwell_anomaly + flight_anomaly) / 2 - threshold} difference in scores")
-                    keylog.flush_cache()  # flush the list
-                    logger.write_log(send_email(email))  # send the email
+                else:
+                    if threshold is not None:
+                        logger.write_log(f"ANOMALY DETECTED: {abs((dwell_anomaly + flight_anomaly) / 2 - threshold)} difference in scores")
+                        keylog.flush_cache()  # flush the list
+                        logger.write_log(send_email(email))  # send the email
 
         else:
             time.sleep(0.5)
